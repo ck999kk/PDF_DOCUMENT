@@ -1,4 +1,15 @@
-async function load(u){const r=await fetch(u);const t=await r.text();return t.split("\n").filter(Boolean).map(JSON.parse)}
+async function load(u){
+  try{
+    const r=await fetch(u);
+    const t=await r.text();
+    return t.split("\n").filter(Boolean).map(JSON.parse);
+  }catch(e){
+    console.error("Failed to load index",e);
+    const res=document.getElementById("res");
+    if(res)res.textContent="Failed to load index";
+    return[];
+  }
+}
 function hit(r,q){q=q.toLowerCase();return r.text.toLowerCase().includes(q)}
 const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 (async()=>{
