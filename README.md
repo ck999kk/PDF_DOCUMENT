@@ -2,6 +2,10 @@
 
 > Auto-generated. Click to view each PDF in-browser (main branch).
 
+This repository's source code is licensed under the [MIT License](LICENSE).
+Embedded PDF and text documents are provided for reference only and may be
+subject to third-party copyright or other usage restrictions.
+
 - [`2025-02-22_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-02-22_Rent_Receipt.pdf)
 - [`2025-03-21_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-03-21_Rent_Receipt.pdf)
 - [`2025-04-21_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-04-21_Rent_Receipt.pdf)
