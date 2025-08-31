@@ -1,0 +1,16 @@
+{
+  "name": "pdf_doucument",
+  "version": "1.0.0",
+  "description": "> Auto-generated. Click to view each PDF in-browser (main branch).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node scripts/test_escape.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
