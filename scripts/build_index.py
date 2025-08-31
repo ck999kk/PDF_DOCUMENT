@@ -8,11 +8,31 @@ from pdfminer.pdfpage import PDFPage
 
 
 def pages(pdf: str) -> int:
+    """Count the pages in a PDF file.
+
+    Args:
+        pdf: Path to the PDF document.
+
+    Returns:
+        The number of pages contained in ``pdf``.
+    """
+
     with open(pdf, "rb") as f:
         return sum(1 for _ in PDFPage.get_pages(f))
 
 
 def cut(s: str, n: int) -> str:
+    """Normalize whitespace and truncate a string.
+
+    Args:
+        s: The string to shorten.
+        n: Maximum length of the returned string.
+
+    Returns:
+        The truncated string. An ellipsis is appended if ``s`` exceeds
+        ``n`` characters.
+    """
+
     s = " ".join((s or "").split())
     return s[:n] + ("…" if len(s) > n else "")
 
@@ -25,6 +45,11 @@ def main() -> None:
         help="Base URL for generated links.",
     )
     parser.add_argument(
+        "--output",
+        default="index.jsonl",
+        help="Destination JSONL file for the index.",
+    )
+    parser.add_argument(
         "--snippet-length",
         type=int,
         default=420,
@@ -32,7 +57,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    with open("index.jsonl", "w", encoding="utf-8") as out:
+    with open(args.output, "w", encoding="utf-8") as out:
         for pdf in sorted(glob.glob("*.pdf")):
             try:
                 n = pages(pdf)
