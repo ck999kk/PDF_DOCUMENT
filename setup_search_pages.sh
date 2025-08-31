@@ -67,13 +67,14 @@ async function load() {
   const res = await fetch('../index.jsonl').then(r=>r.text());
   const rows = res.trim().split(/\n/).map(l=>{try{return JSON.parse(l)}catch(e){return null}}).filter(Boolean);
   const q = document.getElementById('q'), out = document.getElementById('out');
+  const esc = s => (s||'').replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
   function render(list){
     out.innerHTML = list.slice(0,200).map(r=>`
       <div class="hit">
-        <a href="../${encodeURIComponent(r.file)}" target="_blank">${r.file}</a>
-        ${r.title?`<div class="small">Title: ${r.title}</div>`:''}
+        <a href="../${encodeURIComponent(r.file)}" target="_blank">${esc(r.file)}</a>
+        ${r.title?`<div class="small">Title: ${esc(r.title)}</div>`:''}
         <div class="small">SHA-256: ${r.sha256.slice(0,16)}… · pages: ${r.pages} · size: ${r.size} bytes</div>
-        <div>${(r.preview||'').replace(/</g,'&lt;').slice(0,300)}</div>
+        <div>${esc(r.preview).slice(0,300)}</div>
       </div>`).join('');
   }
   render(rows);
