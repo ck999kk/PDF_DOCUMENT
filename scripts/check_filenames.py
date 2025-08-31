@@ -15,7 +15,18 @@ def is_valid(filename):
         return False
     return True
 
-bad = [f for f in os.listdir('.') if f.lower().endswith('.pdf') and not is_valid(f)]
+if len(sys.argv) > 1:
+    directory = sys.argv[1]
+else:
+    directory = '.'
+
+try:
+    all_files = os.listdir(directory)
+except FileNotFoundError:
+    print(f"Error: Directory not found at '{directory}'")
+    sys.exit(1)
+
+bad = [f for f in all_files if f.lower().endswith('.pdf') and not is_valid(f)]
 
 if bad:
     print('Invalid PDF filenames:')
