@@ -9,3 +9,7 @@ const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
   }
   q.addEventListener("input",()=>{const v=q.value.trim(); if(!v){res.innerHTML=""; return} render(data.filter(r=>hit(r,v)));});
 })();
+
+if (typeof module !== "undefined") {
+  module.exports = { hit, esc };
+}
