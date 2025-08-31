@@ -1,0 +1,35 @@
+<!doctype html><meta charset="utf-8">
+<title>PDF_DOUCUMENT — Search</title>
+<style>body{font-family:system-ui,Arial,sans-serif;max-width:900px;margin:40px auto;padding:0 12px}
+input{width:100%;padding:10px;font-size:16px} .hit{padding:10px 0;border-bottom:1px solid #eee}
+.small{color:#555;font-size:12px;}</style>
+<h1>Repository Search</h1>
+<input id="q" placeholder="Type to search filename/title/text preview...">
+<div id="out"></div>
+<script>
+async function load() {
+  const res = await fetch('../index.jsonl').then(r=>r.text());
+  const rows = res.trim().split(/\n/).map(l=>{try{return JSON.parse(l)}catch(e){return null}}).filter(Boolean);
+  const q = document.getElementById('q'), out = document.getElementById('out');
+  function render(list){
+    out.innerHTML = list.slice(0,200).map(r=>`
+      <div class="hit">
+        <a href="../${encodeURIComponent(r.file)}" target="_blank">${r.file}</a>
+        ${r.title?`<div class="small">Title: ${r.title}</div>`:''}
+        <div class="small">SHA-256: ${r.sha256.slice(0,16)}… · pages: ${r.pages} · size: ${r.size} bytes</div>
+        <div>${(r.preview||'').replace(/</g,'&lt;').slice(0,300)}</div>
+      </div>`).join('');
+  }
+  render(rows);
+  q.addEventListener('input', ()=>{
+    const k = q.value.toLowerCase();
+    const filtered = rows.filter(r =>
+      r.file.toLowerCase().includes(k) ||
+      (r.title||'').toLowerCase().includes(k) ||
+      (r.preview||'').toLowerCase().includes(k)
+    );
+    render(filtered);
+  });
+}
+load();
+</script>
