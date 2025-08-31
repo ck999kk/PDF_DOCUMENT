@@ -2,6 +2,17 @@
 
 > Auto-generated. Click to view each PDF in-browser (main branch).
 
+## Parsing messages.csv
+
+```python
+import csv
+
+with open("messages.csv", newline="") as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        print(row["Subject"])
+```
+
 - [`2025-02-22_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-02-22_Rent_Receipt.pdf)
 - [`2025-03-21_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-03-21_Rent_Receipt.pdf)
 - [`2025-04-21_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-04-21_Rent_Receipt.pdf)
