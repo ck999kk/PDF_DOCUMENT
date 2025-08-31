@@ -34,7 +34,9 @@ async function load() {
       render(filtered);
     });
   } catch (e) {
-    out.innerHTML = '<div class="small">Failed to load index.jsonl</div>';
+    q.disabled = true;
+    out.innerHTML = '<div class="small">Failed to load search index. Please try again later.</div>';
+    alert('Unable to load search index. Search has been disabled.');
     console.error('Failed to load search index:', e);
   }
 }
