@@ -21,7 +21,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--base-url",
-        default="https://ck999kk.github.io/PDF_DOUCUMENT",
+        default="https://ck999kk.github.io/PDF_DOCUMENT",
         help="Base URL for generated links.",
     )
     parser.add_argument(
