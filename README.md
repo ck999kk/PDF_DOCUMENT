@@ -2,6 +2,14 @@
 
 > Auto-generated. Click to view each PDF in-browser (main branch).
 
+## Tests
+
+Run the test suite with:
+
+```bash
+node --test
+```
+
 - [`2025-02-22_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-02-22_Rent_Receipt.pdf)
 - [`2025-03-21_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-03-21_Rent_Receipt.pdf)
 - [`2025-04-21_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-04-21_Rent_Receipt.pdf)
