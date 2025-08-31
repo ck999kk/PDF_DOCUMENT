@@ -15,8 +15,8 @@ To get started with this repository, you need to have Git and Git LFS installed.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ck999kk/PDF_DOUCUMENT.git
-    cd PDF_DOUCUMENT
+    git clone https://github.com/ck999kk/PDF_DOCUMENT.git
+    cd PDF_DOCUMENT
     ```
 
 2.  **List the documents:**
@@ -26,6 +26,14 @@ To get started with this repository, you need to have Git and Git LFS installed.
     ```bash
     ls -l *.pdf
     ```
+
+## Search Interface
+
+A GitHub Pages site provides a searchable interface for browsing documents: [PDF Document Search](https://ck999kk.github.io/PDF_DOCUMENT/).
+
+1. Open the link above in your browser.
+2. Enter keywords in the search box to find matching documents.
+3. Click a result to view the corresponding PDF.
 
 ## Contributing
 
