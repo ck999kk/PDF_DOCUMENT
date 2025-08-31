@@ -1,0 +1,88 @@
+
+## REPO BASICS
+topdir: /Users/chawakornkamnuansil/repo_pdf/PDF
+branch: main
+remote: https://github.com/ck999kk/PDF.git
+last commit: eb60b8a 2025-08-31 13:07:24 +1000 ck999kk feat(scan): add scanner outputs & script; ignore OS/venv noise
+
+## GITATTRIBUTES / LFS TRACKING
+-- .gitattributes (first 120 lines) --
+*.pdf  filter=lfs diff=lfs merge=lfs -text
+*.zip  filter=lfs diff=lfs merge=lfs -text
+*.mov  filter=lfs diff=lfs merge=lfs -text
+*.mp4  filter=lfs diff=lfs merge=lfs -text
+*.jpg  filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.png  filter=lfs diff=lfs merge=lfs -text
+*.eml  filter=lfs diff=lfs merge=lfs -text
+*.mbox filter=lfs diff=lfs merge=lfs -text
+-- git lfs track (patterns) --
+Listing tracked patterns
+    *.pdf (.gitattributes)
+    *.zip (.gitattributes)
+    *.mov (.gitattributes)
+    *.mp4 (.gitattributes)
+    *.jpg (.gitattributes)
+    *.jpeg (.gitattributes)
+    *.png (.gitattributes)
+    *.eml (.gitattributes)
+    *.mbox (.gitattributes)
+Listing excluded patterns
+-- suspicious lines in .gitattributes (may be accidental text) --
+
+## LFS INVENTORY
+-- LFS files (count) --
+LFS files total: 167
+-- LFS files by extension (top 10) --
+     pdf    167
+-- LFS files (long form if size flag available) --
+53077340effb9039d7725a43ba6c57b1158fd4cff3164746d047dfd4f6ceb805 - 2025-06-23_Medical_Document.pdf (8.0 MB)
+5fd37dccd2e8019a25dd129b5523cc1d727a2ac780e6708dc7ff7642b1de3af5 - 20250207-Welcome to Areal Property – Your New Property Mana-111.pdf (118 KB)
+5895728c882d9f7f3041e0e17701a80a64b71c9ac96d1e97d9d81e94b5290eb6 - 20250225-Receipt of payment for 1803_243 Franklin St, Melbo-110.pdf (92 KB)
+dd0cf4fb31f137b7f2848d2ab0858fd8e2ef1f0e89089df5d791b1fc36b60e3b - 20250325-Areal monthly after-hours trades list update-109.pdf (118 KB)
+2bfb43700d0135acae9fe2dc3eb1bc31977fd0f242e56d7d706dc77a78198a2f - 20250325-Receipt of payment for 1803_243 Franklin St, Melbo-108.pdf (90 KB)
+eff2c3005820c1b86533d89ab1d4580009ff21fe23cc5f0b61a4d5611a3a463c - 20250401-Areal monthly after-hours trades list update-107.pdf (117 KB)
+8d757ad895a8d43e28c738ef2d649ebaa67a8dde258235501f6094b5b51962aa - 20250402-Non-Urgent Maintenance Request (1803_243 Franklin -104.pdf (119 MB)
+12ee1ee9add584c14b35afcf5272eb446ca8f38b5abb1c7d4d3c5bbcee74c3d9 - 20250408-Fwd_ Non-Urgent Maintenance Request (1803_243 Fran-105.pdf (119 MB)
+a845b32a2543b2a81729dc203bd3ae3b74af7995ab8908e35ecf443d7444a1cf - 20250409-Re_Non-Urgent Maintenance Request (1803_243 Frankl-106.pdf (257 KB)
+e09a4b982d1185b5521a32c227505b5c466949a3b751000968da977ae5983400 - 20250416-Re_Urgent_ Water Damage on Bedroom Wall (Unit 1803-101.pdf (236 KB)
+01a5ed4c209112c5d6f958489c05a159bef129c24a4912eadbb53599eaa48891 - 20250416-Re_Urgent_ Water Damage on Bedroom Wall (Unit 1803-102.pdf (246 KB)
+0668a1965dad51be0519f40e2e782b69fa34b050a35755a72a7bb2a98d27083e - 20250416-Urgent_ Water Damage on Bedroom Wall (Unit 1803)-100.pdf (52 MB)
+cda5bb53c1e66c4386ec31e0201402dbcc5407d745f554bc512029908f64f2f5 - 20250420-Automatic reply_ Urgent_ Water Damage on Bedroom W-99.pdf (50 KB)
+28a04ce23064a2611f5ac412f5c6262a120a3d09ed2bc8a0bb29077bdc03a503 - 20250420-Re_Urgent_ Water Damage on Bedroom Wall (Unit 1803-103.pdf (30 MB)
+dafb644a5a422d9c179f10c78b3472a84836a41d43770752cc625be21116188c - 20250423-Receipt of payment for 1803_243 Franklin St, Melbo-98.pdf (90 KB)
+8e9ed3564edc52e41c2bf9e84fa3392e413f36087d4631040544ad5f0825db06 - 20250423-Second Follow-up_ Urgent Water Damage Escalation –-97.pdf (33 MB)
+2f55324805ddb938d741ceb64b5470b28c913ebe5d12cf2763d3a2e3a4c31660 - 20250424-Re_FW_ Second Follow-up_ Urgent Water Damage Escal-95.pdf (184 KB)
+3254d1eef391d9adf60edc360998627fdead86215a2459d857dc87d2068b87cb - 20250424-Routine inspection scheduled for 1803_243 Franklin-96.pdf (108 KB)
+f19dec04431d89ab03f260e904635756caac44828b538076b12981dff88bac70 - 20250428-Update on Leak Inspection-1803_243 Franklin-94.pdf (2.5 MB)
+5e1c15a871c2944cdfcf25c17fce98db8e385f296e764a285b34a635a767267f - 20250428-Update on Leak Issue at 1803_ 243 Franklin-93.pdf (132 KB)
+acae65da840a4d74c7b8680a94cac10fd8f15f792240d3bcf7e0e86f131cb497 - 20250430-Routine inspection for 1803_243 Franklin St, Melbo-92.pdf (108 KB)
+7f239dcf8f40e1d01f96dd942c1bface11f3e8b040496b9f69be7c45e6650bca - 20250501-Areal monthly after-hours trades list update-91.pdf (118 KB)
+7952f52dfcc0bb0f799048a8c91d822c274783b8266aec52ca37b099f7e9c8cf - 20250502-Leaking Repaired Confirmation  - 1803_243 Franklin-90.pdf (134 KB)
+ce228c76c3ed3a61941cf243d62a3bbb418be5b913644f75194bbf9f817d31ab - 20250509-Follow-up on Wall and Carpet Damage – 1803_243 Fra-87.pdf (50 KB)
+e792128589eda377cb8e25a4a19d18d0d2afdb8eb4452fdfeba0d3cb1c0d0f0c - 20250509-Re_Follow-up on Wall and Carpet Damage – 1803_243 -88.pdf (294 KB)
+af472617ff5f424fe6595b080dd062e663baedb26be05d29a4c8e1005886e2ff - 20250510-Re_Follow-up on Wall and Carpet Damage – 1803_243 -89.pdf (13 MB)
+034252c2540bc890287fd41a696f12faeccbba251b8f321083c5d74c6eea74c7 - 20250512-Re_FW_ Follow-up on Wall and Carpet Damage – 1803_-78.pdf (181 KB)
+50152b71633683d3e969294ac3dbf7d55aa1bf49581ba19362d010454c9468d1 - 20250513-Re_PS628109B - R&M - Water Leak Lot 1803A - 243, 2-86.pdf (418 KB)
+d6cb77196ab46c48111d0faaa7a431862cd9d1683c67bce1b05249af52d30c8f - 20250526-Receipt of payment for 1803_243 Franklin Street, M-85.pdf (91 KB)
+9fc0b5588f1d8af5a232c2eca8c15b8ba815c67dee24568e3aa0b1c3ccb2899d - 20250529-Leak Rectification Works – Access Required-84.pdf (135 KB)
+534a969399b09a98d3fb78e62d9619c98d7531616ef24e9aaef0fcaa629b02e3 - 20250602-Areal monthly after-hours trades list update-83.pdf (118 KB)
+d447924393d0aa80c8d928e2d28cca34f9ce7520bbc28c6dd188be8fa6a70322 - 20250602-Re_FW_ Follow-up on Wall and Carpet Damage – 1803_-79.pdf (223 KB)
+520562c458d8123f70f8f8cc1d73924ef5ab2aecc75daa349c9809768d793b5b - 20250603-Re_FW_ Follow-up on Wall and Carpet Damage – 1803_-80.pdf (281 KB)
+a52fac288370fa0dea38c1142bb2a1a4e8fe6b576aa710b4dba21631d7acb24a - 20250603-Re_FW_ Follow-up on Wall and Carpet Damage – 1803_-81.pdf (181 KB)
+c355ef7bd0b4ba8f49957a9b31103511bf64fd3e2475671695355b0c4cc2f6e0 - 20250605-Re_FW_ Follow-up on Wall and Carpet Damage – 1803_-82.pdf (301 KB)
+30126158c1535102304942425209bde0da29623bdf7afd778d2322254cb2f06f - 20250606-Follow-up – Formal Demand & Statement Regarding Un-63.pdf (55 KB)
+1203de91a0af16eee526f5ac903d4321c05532ca5eeefe0abdb78102a9c64d81 - 20250606-Re_Follow-up – Formal Demand & Statement Regarding-64.pdf (146 KB)
+2eb6c88f6c0f8101e7ce555c2a837f27eacc21464d4765f5275f010c9a9b97c2 - 20250606-Re_Follow-up – Formal Demand & Statement Regarding-65.pdf (134 KB)
+cf80be4594d8c23cf2b0d927add27e16cb4fe6da3620a2460e1ddcfcb47d43a2 - 20250606-You have reached us outside of business hours-77.pdf (108 KB)
+d2695d973428a43f4eb466e4060028d8743ef352b9fc833ff5319ce193351558 - 20250610-Re_Follow-up – Formal Demand & Statement Regarding-66.pdf (184 KB)
+c001f9917358c7f590b956736953ecb71dd09eec5bdc52255a7cc8f18e75bb1a - 20250610-Re_Follow-up – Formal Demand & Statement Regarding-67.pdf (220 KB)
+7340304704a84accbf0597f0f24d68e6ea402218937af4a9cc55c257744246f3 - 20250611-Re_Rent Adjustment – Request for Clarification and-76.pdf (186 KB)
+a05d40c66112bc5389c2efdf418b4d4363f51ac71d97e3bae2155146587520c3 - 20250611-You have reached us outside of business hours-75.pdf (108 KB)
+bdfcb8136085d991c9bcf2e36cd8e1ecee8c9d22566364b8591a64424962c8a3 - 20250612-Re_Follow-up – Formal Demand & Statement Regarding-68.pdf (246 KB)
+5168993ce0a6a2f50d1eb3bc4499aa3fbc9c29bfb619ee4e02a2951e900ee627 - 20250613-Re_Follow-up – Formal Demand & Statement Regarding-69.pdf (258 KB)
+bb2dd275c11c2b26f77ef65c66ad203af121012636445860497e961fc4424c15 - 20250613-Re_Follow-up – Formal Demand & Statement Regarding-70.pdf (310 KB)
+f911b0d9bca9eb497c4b092afd96d30fcbe3614f75b5f9f57be87c21529641b7 - 20250613-You have reached us outside of business hours-74.pdf (109 KB)
+7f80263fe04a985729d7a4bbd7f0c806f9f547455ca247335fa49513babf9001 - 20250616-Re_Follow-up – Formal Demand & Statement Regarding-71.pdf (155 KB)
+8aaba0c2c85d387c58138088532645f0057cc9f52a9914a9c40c44b4771c2cdd - 20250616-Re_Follow-up – Formal Demand & Statement Regarding-72.pdf (247 KB)
+4852edec52bd889e19c1a7d98bf0189ff7752afd04d95e3c171b4f28e3a02632 - 20250616-You have reached us outside of business hours-73.pdf (109 KB)
