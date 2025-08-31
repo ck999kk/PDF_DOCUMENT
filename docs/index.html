@@ -1,3 +1,51 @@
-<!doctype html><meta charset="utf-8"><title>PDF Search</title>
-<input id="q" placeholder="ค้นหา..." autofocus><div id="res"></div>
-<script src="search.js"></script>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>PDF Archive Search</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      line-height: 1.5;
+    }
+    label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-weight: bold;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 0.5rem;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+    }
+    #res div {
+      margin-bottom: 1rem;
+    }
+    #res a {
+      color: #0645ad;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>PDF Document Archive</h1>
+  <p>
+    Browse and search the PDF archive. Type a keyword below and matching
+    pages will appear. Click a result to open the PDF in a new tab.
+  </p>
+  <label for="q">Search / ค้นหา</label>
+  <input
+    id="q"
+    type="text"
+    placeholder="e.g., rent receipt / ใบเสร็จค่าเช่า"
+    autofocus
+  />
+  <div id="res" aria-live="polite"></div>
+  <script src="search.js"></script>
+</body>
+</html>
+
