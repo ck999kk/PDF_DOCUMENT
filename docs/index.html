@@ -8,28 +8,35 @@ input{width:100%;padding:10px;font-size:16px} .hit{padding:10px 0;border-bottom:
 <div id="out"></div>
 <script>
 async function load() {
-  const res = await fetch('../index.jsonl').then(r=>r.text());
-  const rows = res.trim().split(/\n/).map(l=>{try{return JSON.parse(l)}catch(e){return null}}).filter(Boolean);
   const q = document.getElementById('q'), out = document.getElementById('out');
-  function render(list){
-    out.innerHTML = list.slice(0,200).map(r=>`
-      <div class="hit">
-        <a href="../${encodeURIComponent(r.file)}" target="_blank">${r.file}</a>
-        ${r.title?`<div class="small">Title: ${r.title}</div>`:''}
-        <div class="small">SHA-256: ${r.sha256.slice(0,16)}… · pages: ${r.pages} · size: ${r.size} bytes</div>
-        <div>${(r.preview||'').replace(/</g,'&lt;').slice(0,300)}</div>
-      </div>`).join('');
+  try {
+    const res = await fetch('../index.jsonl');
+    if (!res.ok) throw new Error('Network error');
+    const text = await res.text();
+    const rows = text.trim().split(/\n/).map(l=>{try{return JSON.parse(l)}catch(e){return null}}).filter(Boolean);
+    function render(list){
+      out.innerHTML = list.slice(0,200).map(r=>`
+        <div class="hit">
+          <a href="../${encodeURIComponent(r.file)}" target="_blank">${r.file}</a>
+          ${r.title?`<div class="small">Title: ${r.title}</div>`:''}
+          <div class="small">SHA-256: ${r.sha256.slice(0,16)}… · pages: ${r.pages} · size: ${r.size} bytes</div>
+          <div>${(r.preview||'').replace(/</g,'&lt;').slice(0,300)}</div>
+        </div>`).join('');
+    }
+    render(rows);
+    q.addEventListener('input', ()=>{
+      const k = q.value.toLowerCase();
+      const filtered = rows.filter(r =>
+        r.file.toLowerCase().includes(k) ||
+        (r.title||'').toLowerCase().includes(k) ||
+        (r.preview||'').toLowerCase().includes(k)
+      );
+      render(filtered);
+    });
+  } catch (e) {
+    out.innerHTML = '<div class="small">Failed to load index.jsonl</div>';
+    console.error('Failed to load search index:', e);
   }
-  render(rows);
-  q.addEventListener('input', ()=>{
-    const k = q.value.toLowerCase();
-    const filtered = rows.filter(r =>
-      r.file.toLowerCase().includes(k) ||
-      (r.title||'').toLowerCase().includes(k) ||
-      (r.preview||'').toLowerCase().includes(k)
-    );
-    render(filtered);
-  });
 }
 load();
 </script>
