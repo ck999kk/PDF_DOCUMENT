@@ -2,6 +2,10 @@
 
 > Auto-generated. Click to view each PDF in-browser (main branch).
 
+The indexing script uses `pdfminer.six` for text extraction and
+automatically falls back to `ocrmypdf` when pages contain many `"(cid:"`
+tokens, storing OCR output under `_text/` before adding them to the index.
+
 - [`2025-02-22_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-02-22_Rent_Receipt.pdf)
 - [`2025-03-21_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-03-21_Rent_Receipt.pdf)
 - [`2025-04-21_Rent_Receipt.pdf`](https://github.com/ck999kk/PDF.git/blob/main/2025-04-21_Rent_Receipt.pdf)
