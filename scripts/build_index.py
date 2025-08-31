@@ -36,16 +36,19 @@ def main() -> None:
         for pdf in sorted(glob.glob("*.pdf")):
             try:
                 n = pages(pdf)
+                pdf_name = os.path.basename(pdf)
                 for i in range(1, n + 1):
                     txt = extract_text(pdf, page_numbers=[i - 1]) or ""
                     if txt.strip():
                         out.write(
                             json.dumps(
                                 {
-                                    "file": os.path.basename(pdf),
+                                    "file": pdf_name,
                                     "page": i,
                                     "text": cut(txt, args.snippet_length),
-                                    "url": f"{args.base_url}/{os.path.basename(pdf)}#page={i}",
+                                    "url": (
+                                        f"{args.base_url}/{pdf_name}#page={i}"
+                                    ),
                                 },
                                 ensure_ascii=False,
                             )
