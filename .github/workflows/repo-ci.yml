@@ -1,0 +1,41 @@
+name: repo-ci
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  validate-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate filenames
+        run: python scripts/check_filenames.py
+
+      - name: Build manifest + permalinks
+        run: |
+          python scripts/generate_manifest.py
+          python scripts/generate_readme_permalinks.py
+
+      - name: Upload manifest artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: repo-artifacts
+          path: |
+            EVIDENCE_MANIFEST.csv
+            README_PERMALINKS.md
