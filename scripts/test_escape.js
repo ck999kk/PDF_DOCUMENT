@@ -1,6 +1,5 @@
 const assert = require('assert');
-
-const esc = s => s.replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+const { esc } = require('../docs/search.js');
 
 assert.strictEqual(esc('<script>'), '&lt;script&gt;');
 
