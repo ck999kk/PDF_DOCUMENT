@@ -1,3 +1,10 @@
+# This script builds an index.jsonl file from PDF documents.
+# It extracts text from each page of PDF files and creates a JSONL entry
+# with filename, page number, extracted text snippet, and a permalink.
+#
+# Input: PDF files in the current directory.
+# Output: index.jsonl file.
+
 import argparse
 import glob
 import json
@@ -8,16 +15,38 @@ from pdfminer.pdfpage import PDFPage
 
 
 def pages(pdf: str) -> int:
+    """
+    Counts the number of pages in a PDF file.
+
+    Args:
+        pdf: The path to the PDF file.
+
+    Returns:
+        The number of pages in the PDF file.
+    """
     with open(pdf, "rb") as f:
         return sum(1 for _ in PDFPage.get_pages(f))
 
 
 def cut(s: str, n: int) -> str:
+    """
+    Trims a string to a specified length and appends an ellipsis if truncated.
+
+    Args:
+        s: The input string.
+        n: The maximum length of the string.
+
+    Returns:
+        The trimmed string.
+    """
     s = " ".join((s or "").split())
     return s[:n] + ("…" if len(s) > n else "")
 
 
 def main() -> None:
+    """
+    Main function to build the index.jsonl file from PDF documents.
+    """
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--base-url",

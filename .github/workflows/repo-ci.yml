@@ -39,3 +39,12 @@ jobs:
           path: |
             EVIDENCE_MANIFEST.csv
             README_PERMALINKS.md
+
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.10.0
+        with:
+          args: --exclude-all-private --verbose README.md README_PERMALINKS.md

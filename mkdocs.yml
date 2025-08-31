@@ -1,0 +1,4 @@
+site_name: PDF Document Management
+nav:
+  - Home: index.md
+  - About: about.md

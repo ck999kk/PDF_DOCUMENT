@@ -1,0 +1,7 @@
+# This is a sample CODEOWNERS file.
+# You can use it to define who owns which parts of your codebase.
+# For more information, see:
+# https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+# Assign @ck999kk as the owner for all files
+* @ck999kk

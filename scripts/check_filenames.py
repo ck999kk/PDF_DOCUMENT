@@ -1,7 +1,23 @@
+# This script validates PDF filenames to ensure they follow a specific naming convention.
+# The expected format is YYYYMMDD-Title-###.pdf.
+#
+# Input: A directory path (optional, defaults to current directory).
+# Output: Prints invalid filenames and exits with an error code if any are found.
+
 import os
 import sys
 
+
 def is_valid(filename):
+    """
+    Checks if a filename follows the YYYYMMDD-Title-###.pdf format.
+
+    Args:
+        filename: The name of the file to check.
+
+    Returns:
+        True if the filename is valid, False otherwise.
+    """
     # expected format YYYYMMDD-Title-###.pdf
     if not filename.lower().endswith('.pdf'):
         return True
@@ -15,23 +31,28 @@ def is_valid(filename):
         return False
     return True
 
-if len(sys.argv) > 1:
-    directory = sys.argv[1]
-else:
-    directory = '.'
 
-try:
-    all_files = os.listdir(directory)
-except FileNotFoundError:
-    print(f"Error: Directory not found at '{directory}'")
-    sys.exit(1)
+if __name__ == "__main__":
+    """
+    Main script to validate PDF filenames in a given directory.
+    """
+    if len(sys.argv) > 1:
+        directory = sys.argv[1]
+    else:
+        directory = '.'
 
-bad = [f for f in all_files if f.lower().endswith('.pdf') and not is_valid(f)]
+    try:
+        all_files = os.listdir(directory)
+    except FileNotFoundError:
+        print(f"Error: Directory not found at '{directory}'")
+        sys.exit(1)
 
-if bad:
-    print('Invalid PDF filenames:')
-    for b in bad:
-        print(' -', b)
-    sys.exit(1)
+    bad = [f for f in all_files if f.lower().endswith('.pdf') and not is_valid(f)]
 
-print('All PDF filenames valid.')
+    if bad:
+        print('Invalid PDF filenames:')
+        for b in bad:
+            print(' -', b)
+        sys.exit(1)
+
+    print('All PDF filenames valid.')
