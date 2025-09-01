@@ -65,4 +65,12 @@ Contributions to this repository are welcome. Please follow these guidelines:
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [MIT License](LICENSE).## Data catalog
+
+- `data/EVIDENCE_MANIFEST.expanded.csv` — ตารางดัชนีเอกสาร
+  - คอลัมน์ที่ใช้บ่อย: `path`, `title`, `type`, `size`, `sha256`, `sha16`.
+- `data/TRI_MATCH_REPORT.json` — รายงานตรวจความสอดคล้องระหว่างไฟล์จริงกับรายการอ้างอิง
+  - ฟิลด์ตัวอย่างต่อเอกสาร: `path`, `sha256`, `sha16`, `title`, `type`, `github_url`, 
+    และผลตรวจ เช่น `sha16_match`, `branch_main_ok`, `ext_allowed`.
+
+> วิธีใช้: ค้นไฟล์ด้วย `path` จาก manifest แล้วตรวจสถานะจากรายงาน JSON

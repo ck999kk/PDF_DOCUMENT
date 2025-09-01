@@ -1,0 +1,28 @@
+name: validate-data
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Sanity check data
+        run: |
+          python - <<'PY'
+          import csv, json, sys, pathlib
+          p_manifest = pathlib.Path("data/EVIDENCE_MANIFEST.expanded.csv")
+          p_report   = pathlib.Path("data/TRI_MATCH_REPORT.json")
+          assert p_manifest.is_file(), "missing manifest CSV"
+          assert p_report.is_file(),   "missing TRI report JSON"
+          with p_manifest.open(newline='', encoding='utf-8') as f:
+              rows = list(csv.DictReader(f))
+          with p_report.open(encoding='utf-8') as f:
+              items = json.load(f)
+          print(f"manifest rows: {len(rows)}")
+          print(f"tri items:     {len(items)}")
+          bad = [i for i in items if not i.get('path') or not i.get('sha256')]
+          if bad:
+              print(f"invalid items: {len(bad)}"); sys.exit(1)
+          PY
