@@ -35,6 +35,10 @@ A GitHub Pages site provides a searchable interface for browsing documents: [PDF
 2. Enter keywords in the search box to find matching documents.
 3. Click a result to view the corresponding PDF.
 
+## Merged Text Access
+
+A single plain-text file containing all PDF contents is available at [merged_texts.txt](https://raw.githubusercontent.com/ck999kk/PDF_DOCUMENT/main/merged_texts.txt). AI tools can read this link directly.
+
 ## Contributing
 
 Contributions to this repository are welcome. Please follow these guidelines:

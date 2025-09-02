@@ -1,4 +1,4 @@
-===== START FILE: ./2025-07-23_Rent_Receipt.txt =====
+=== 2025-07-23_Rent_Receipt.pdf ===
 AREAL CommBank app BPAY 358325 96701 Rent
 
 -$2,825.00
@@ -38,8 +38,7 @@ N272354892745
 
 = Print
 
-
-===== END FILE: ./2025-07-23_Rent_Receipt.txt =====
+=== 20250207-Welcome_to_Areal_Property_---_Your_New_Property_Mana-111.pdf ===
 
 ===== START FILE: ./20250207-Welcome_to_Areal_Property_---_Your_New_Property_Mana-111.txt =====
 1 of 3
@@ -117,11 +116,8 @@ The Areal Property Team
 
 30/8/68, 16:54
 
-3 of 3
-
-Welcome to Areal Property Ð Your New Property Management Team
-
-If you have any feedback regarding my service, please feel free to contact my manager.
+=== 20250225-Receipt_of_payment_for_1803_243_Franklin_St-_Melbo-110.pdf ===
+=== 20250325-Areal_monthly_after-hours_trades_list_update-109.pdf ===
 
 Jamie Ong (Head of Property Management) jamie.ong@areal.com.au
 DISCLAIMER & WARNING. This correspondence and the information contained in this and associated e-mails are confidential and were
@@ -348,12 +344,8 @@ Plumbing
 Group
 
 In the event that trade on the above list is unable to attend, an alternative local tradesperson
-may be engaged. Please be careful who you engage by checking Google reviews to avoid
-overpriced and dishonest tradespeople.
-Please note, if you do arrange your own trades that they may bill you directly. Please seek
-reimbursement from your property manager accordingly.
-We appreciate your cooperation in promptly reporting any issues so we can address them
-effectively.
+=== 20250325-Receipt_of_payment_for_1803_243_Franklin_St-_Melbo-108.pdf ===
+=== 20250401-Areal_monthly_after-hours_trades_list_update-107.pdf ===
 
 30/8/68, 16:54
 
@@ -575,9 +567,7 @@ info@metwestplumbing.com.au
 
 Plumbing
 1300 116 486
-info@melbourneplumbinggroup.com.au
-Melbourne
-Plumbing
+=== 20250402-Non-Urgent_Maintenance_Request_-1803_243_Franklin_-104.pdf ===
 Group
 
 In the event that trade on the above list is unable to attend, an alternative local tradesperson
@@ -753,9 +743,7 @@ Ly
 
 Piel
 
-Ne Aye
-ny
-
+=== 20250408-Fwd__Non-Urgent_Maintenance_Request_-1803_243_Fran-105.pdf ===
 op
 
 30/8/68, 16:54
@@ -1002,9 +990,7 @@ NS
 
 aie
 
-; Lio
-Ly
-0
+=== 20250409-Re_Non-Urgent_Maintenance_Request_-1803_243_Frankl-106.pdf ===
 
 Piel
 
@@ -1131,8 +1117,7 @@ forward to hearing from you soon.
 
 30/8/68, 16:53
 
-3 of 4
-
+=== 20250416-Re_Urgent__Water_Damage_on_Bedroom_Wall_-Unit_1803-101.pdf ===
 RE: Non-Urgent Maintenance Request (1803/243 Franklin st) Ð Broken Bed Frame with Exposed Nails
 
 Warm regards,
@@ -1193,9 +1178,7 @@ RE: Urgent: Water Damage on Bedroom Wall (Unit 1803)
 Subject: RE: Urgent: Water Damage on Bedroom Wall (Unit 1803)
 From: Hilary Ho <hilary.ho@areal.com.au>
 Date: 16/4/68, 11:35
-To: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
-Good Morning Chawakorn,
-I hope you have been well.
+=== 20250416-Re_Urgent__Water_Damage_on_Bedroom_Wall_-Unit_1803-102.pdf ===
 Recently, management has made a decision that your rental property will be managed by my
 colleague Sylvia.
 I have passed all messages across and have completed adequate handover to ensure a smooth
@@ -1275,9 +1258,7 @@ transition.
 
 Her email is sylvia.hao@areal.com.au .
 
-She will reach out to you shortly.
-
-Thank you
+=== 20250416-Urgent__Water_Damage_on_Bedroom_Wall_-Unit_1803--100.pdf ===
 
 Kind Regards,
 Hilary Ho
@@ -1341,13 +1322,9 @@ Phone: 0449 962 645
 Urgent: Water Damage on Bedroom Wall (Unit 1803)
 Subject: Urgent: Water Damage on Bedroom Wall (Unit 1803)
 From: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
-Date: 16/4/68, 04:05
-To: hilary.ho@areal.com.au
-Dear Hilary,
+=== 20250420-Automatic_reply__Urgent__Water_Damage_on_Bedroom_W-99.pdf ===
 
-IÕm contacting you regarding an urgent issue in my unit (1803, 243 Franklin Street). This evening , I noticed a water leak forming on the wall above my bed. Within a single day, it spread rapidly Ñ now forming a long vertical swelling nearly from ceiling to ßoor.
-
-I live on the top ßoor, so this may indicate a ceiling or roof issue. IÕm concerned it could worsen quickly if not addressed.
+=== 20250420-Re_Urgent__Water_Damage_on_Bedroom_Wall_-Unit_1803-103.pdf ===
 
 Please arrange for a maintenance inspection as soon as possible. IÕve attached photos for reference. Let me know if I need to do anything in the meantime.
 
@@ -1477,12 +1454,8 @@ hilary.ho@areal.com.au
 33 Camberwell Road Hawthorn East VIC 3123
 www.areal.com.au
 
-DISCLAIMER & WARNING. This correspondence and the information contained in this and associated e-mails are confidential and were only intended for the exclusive use of the addressee(s). If you
-have received this e-mail in error, any use, copying or inference with this information is unauthorized and prohibited and please immediately delete it and any related attachments or emails from your
-system and its related sub system and notify the sender. You must never copy, disclose, make conclusions and other information in this message that do not relate to the business of the Areal Property
-and shall be understood as neither given nor approved or agreed by it. Although Areal Property has taken reasonable precautions to ensure no viruses are present in this e-mail, Areal Property cannot
-accept responsibility for any loss or damage arising from the use of this e-mail or attachments.
-
+=== 20250423-Receipt_of_payment_for_1803_243_Franklin_St-_Melbo-98.pdf ===
+=== 20250423-Second_Follow-up__Urgent_Water_Damage_Escalation_----97.pdf ===
 From: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
 Sent: Wednesday, 16 April 2025 4:06 AM
 To: Hilary Ho <hilary.ho@areal.com.au>
@@ -1598,9 +1571,7 @@ Second Follow-up: Urgent Water Damage Escalation Ð Immediate Action Required (U
 Subject: Second Follow-up: Urgent Water Damage Escalation Ð Immediate Action Required (Unit 1803)
 From: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
 Date: 23/4/68, 20:53
-To: sylvia.hao@areal.com.au
-Dear Sylvia,
-
+=== 20250424-Re_FW__Second_Follow-up__Urgent_Water_Damage_Escal-95.pdf ===
 I hope you are doing well.
 
 IÕm writing again to follow up on the urgent water leakage issue in my unit (1803, 243 Franklin Street), which I Þrst reported prior to the Easter holiday.
@@ -1736,9 +1707,7 @@ system and its related sub system and notify the sender. You must never copy, di
 and shall be understood as neither given nor approved or agreed by it. Although Areal Property has taken reasonable precautions to ensure no viruses are present in this e-mail, Areal Property cannot
 accept responsibility for any loss or damage arising from the use of this e-mail or attachments.
 
-From: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
-Sent: Wednesday, 23 April 2025 8:53 PM
-
+=== 20250424-Routine_inspection_scheduled_for_1803_243_Franklin-96.pdf ===
 To: Sylvia Hao <sylvia.hao@areal.com.au>
 
 Subject: Second Follow-up: Urgent Water Damage Escalation Ð Immediate Action Required
@@ -1814,8 +1783,7 @@ Click to unsubscribe from future email communication
 
 30/8/68, 16:52
 
-
-===== END FILE: ./20250424-Re_FW__Second_Follow-up__Urgent_Water_Damage_Escal-95.txt =====
+=== 20250428-Update_on_Leak_Inspection-1803_243_Franklin-94.pdf ===
 
 ===== START FILE: ./20250424-Routine_inspection_scheduled_for_1803_243_Franklin-96.txt =====
 1 of 2
@@ -1858,14 +1826,11 @@ We appreciate your cooperation in this matter. Should you have any questions or 
 inspection, please don't hesitate to reach out to me.
 Warm regards,
 Sylvia Hao
-Relationship Manager
-sylvia.hao@areal.com.au
-0420 675 561
+=== 20250428-Update_on_Leak_Issue_at_1803__243_Franklin-93.pdf ===
 
 30/8/68, 16:52
 
-2 of 2
-
+=== 20250430-Routine_inspection_for_1803_243_Franklin_St-_Melbo-92.pdf ===
 Routine inspection scheduled for 1803/243 Franklin St, Melbourne VIC 3000
 
 If you have any feedback regarding my service, please feel free to contact my manager.
@@ -1966,9 +1931,7 @@ Kind regards,
 Sylvia Hao
 
 Relationship Manager
-M 0420 675 561
-P 03 9818 8991
-A 33 Camberwell Road, Hawthorn East VIC 3123
+=== 20250501-Areal_monthly_after-hours_trades_list_update-91.pdf ===
 
 If you have any feedback regarding my service, please feel free to contact my manager.
 
@@ -2150,16 +2113,10 @@ Our Air
 
 Electrical
 
-Lume
+=== 20250502-Leaking_Repaired_Confirmation_-_1803_243_Franklin-90.pdf ===
+=== 20250509-Follow-up_on_Wall_and_Carpet_Damage_---_1803_243_Fra-87.pdf ===
 
-0407 148 606
-info@lumeservices.com.au
-
-Dsquared
-
-1300 377 827
-
-30/8/68, 16:52
+=== 20250509-Re_Follow-up_on_Wall_and_Carpet_Damage_---_1803_243_-88.pdf ===
 
 3 of 4
 
@@ -2317,9 +2274,7 @@ Regards,
 
 Chawakorn
 
-1 of 1
-
-30/8/68, 16:52
+=== 20250510-Re_Follow-up_on_Wall_and_Carpet_Damage_---_1803_243_-89.pdf ===
 
 
 ===== END FILE: ./20250509-Follow-up_on_Wall_and_Carpet_Damage_---_1803_243_Fra-87.txt =====
@@ -2442,9 +2397,7 @@ email, as phone calls cannot be documented as evidence if needed.
 
 | expect a response with a clear action plan and timeline.
 
-Best regards,
-
-Chawakorn
+=== 20250512-Re_FW__Follow-up_on_Wall_and_Carpet_Damage_---_1803_-78.pdf ===
 
 lof
 4
@@ -2622,8 +2575,7 @@ Re: FW: Follow-up on Wall and Carpet Damage Ð 1803/243 Franklin St
 
 30/8/68, 16:51
 
-6 of 9
-
+=== 20250513-Re_PS628109B_-_R-M_-_Water_Leak_Lot_1803A_-_243-_2-86.pdf ===
 Re: FW: Follow-up on Wall and Carpet Damage Ð 1803/243 Franklin St
 
 30/8/68, 16:51
@@ -2856,18 +2808,12 @@ responsibility for any loss or damage arising from the use of this e-mail or att
 
 Click to unsubscribe from future email communication
 
-Image removed by sender. Image removed by sender.
-
-If you have any feedback regarding my service, please feel free to contact my manager.
+=== 20250526-Receipt_of_payment_for_1803_243_Franklin_Street-_M-85.pdf ===
 
 Jamie Ong (Head of Property Management) jamie.ong@areal.com.au
 
-DISCLAIMER & WARNING. This correspondence and the information contained in this and associated e-mails are conÞdential and were
-only intended for the exclusive use of the addressee(s). If you have received this e-mail in error, any use, copying or inference with this
-information is unauthorized and prohibited and please immediately delete it and any related attachments or emails from your system
-and its related sub system and notify the sender. You must never copy, disclose, make conclusions and other information in this
-message that do not relate to the business of the Areal Property and shall be understood as neither given nor approved or agreed by it.
-Although Areal Property has taken reasonable precautions to ensure no viruses are present in this e-mail, Areal Property cannot accept
+=== 20250529-Leak_Rectification_Works_---_Access_Required-84.pdf ===
+=== 20250602-Areal_monthly_after-hours_trades_list_update-83.pdf ===
 responsibility for any loss or damage arising from the use of this e-mail or attachments.
 
 Click to unsubscribe from future email communication
@@ -3124,9 +3070,7 @@ genuinely urgent. Additionally, email your property manager with the following d
 ¥ Reason for urgency
 ¥ If the tradesperson you contacted could not resolve the problem over the phone
 ¥ Events leading up to the urgent call
-¥ Photos and/or video documentation of the issue
-¥ The name of the company you arranged, and if you arranged a trade not on our list, please
-provide their contact details
+=== 20250602-Re_FW__Follow-up_on_Wall_and_Carpet_Damage_---_1803_-79.pdf ===
 
 How to Report Non-Urgent Maintenance
 All non-urgent maintenance requests should be submitted emailed to
@@ -3409,9 +3353,7 @@ Re: FW: Follow-up on Wall and Carpet Damage — 1803/243 Franklin St
 
 Re: FW: Follow-up on Wall and Carpet Damage — 1803/243 Franklin St
 
-On Fri,
-
-9 May 2025 at 14:23, Sylvia Hao <sylvia.hao@areal.com.au> wrote:
+=== 20250603-Re_FW__Follow-up_on_Wall_and_Carpet_Damage_---_1803_-80.pdf ===
 
 Hi Chawakorn,
 
@@ -3666,9 +3608,7 @@ Re: FW: Follow-up on Wall and Carpet Damage Ð 1803/243 Franklin St
 
 30/8/68, 16:51
 
-5 of 10
-
-Re: FW: Follow-up on Wall and Carpet Damage Ð 1803/243 Franklin St
+=== 20250603-Re_FW__Follow-up_on_Wall_and_Carpet_Damage_---_1803_-81.pdf ===
 
 30/8/68, 16:51
 
@@ -3887,9 +3827,7 @@ A 33 Camberwell Road, Hawthorn East VIC 3123
 
 On 2/06/2025 4:37 PM, "Sylvia Hao - Areal Property Hawthorn (MPM)"
 <MPM@email.propertyme.com> wrote:
-Email
-agent image
-Hi Charwakorn,
+=== 20250605-Re_FW__Follow-up_on_Wall_and_Carpet_Damage_---_1803_-82.pdf ===
 Just a quick updateÑOC contractor has confirmed that one of the affected rooms will
 need to remain inaccessible during the drying process. Drying equipment will be placed
 in that bedroom, and please note it does emit a moderate level of noise and
@@ -4149,9 +4087,7 @@ A 33 Camberwell Road, Hawthorn East VIC 3123
 
 On 2/06/2025 4:37 PM, "Sylvia Hao - Areal Property Hawthorn (MPM)"
 <MPM@email.propertyme.com> wrote:
-Email
-agent image
-Hi Charwakorn,
+=== 20250606-Follow-up_---_Formal_Demand_-_Statement_Regarding_Un-63.pdf ===
 Just a quick updateÑOC contractor has confirmed that one of the affected rooms will
 need to remain inaccessible during the drying process. Drying equipment will be placed
 in that bedroom, and please note it does emit a moderate level of noise and
@@ -4205,9 +4141,7 @@ To: Sylvia Hao <sylvia.hao@areal.com.au>
 
 30/8/68, 16:51
 
-5 of 10
-
-Re: FW: Follow-up on Wall and Carpet Damage Ð 1803/243 Franklin St
+=== 20250606-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-64.pdf ===
 Subject: Re: Follow-up on Wall and Carpet Damage Ð 1803/243 Franklin St
 
 Hi Sylvia,
@@ -4300,9 +4234,7 @@ Jamie Ong (Head of Property Management) jamie.ong@areal.com.au
 DISCLAIMER & WARNING. This correspondence and the information contained in this and associated e-mails are confidential and were only intended for
 the exclusive use of the addressee(s). If you have received this e-mail in error, any use, copying or inference with this information is unauthorized and
 prohibited and please immediately delete it and any related attachments or emails from your system and its related sub system and notify the sender. You
-must never copy, disclose, make conclusions and other information in this message that do not relate to the business of the Areal Property and shall be
-understood as neither given nor approved or agreed by it. Although Areal Property has taken reasonable precautions to ensure no viruses are present in
-this e-mail, Areal Property cannot accept responsibility for any loss or damage arising from the use of this e-mail or attachments.
+=== 20250606-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-65.pdf ===
 Click to unsubscribe from future email communication
 
 30/8/68, 16:51
@@ -4446,9 +4378,7 @@ Re: Follow-up Ð Formal Demand & Statement Regarding Unresolved Repairs (Unit 18
 
 Attachments:
 
-1.
-Formal_Demand_Letter_Chawakorn.pdf
-2.
+=== 20250606-You_have_reached_us_outside_of_business_hours-77.pdf ===
 Tenant_Statement_Chawakorn.pdf
 
 If you have any feedback regarding my service, please feel free to contact my manager.
@@ -4508,9 +4438,7 @@ points above. Until then, I consider it unreasonable to demand a commitment from
 especially under these unclear and one-sided circumstances.
 As noted in my formal demand, if a resolution is not reached within Þve (5) calendar
 daysincluding weekendsI will proceed to Þle an application with VCAT.
-Kind regards,
-Chawakorn Kamnuansil
-ck.chawakorn@gmail.com
+=== 20250610-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-66.pdf ===
 
 30/8/68, 16:51
 
@@ -4706,9 +4634,7 @@ As discussed, the affected bedroom will need to be vacant during the repair work
 including the installation of drying equipment.
 Co-Tenant Impact:
 We recognize that your co-tenant will also be affected by these repairs. Please rest
-assured that we will keep both of you informed about the repair schedule and any
-potential disruptions.
-We fully respect your decision to withhold consent until these matters are fully addressed
+=== 20250610-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-67.pdf ===
 in writing. We are working to resolve this as quickly as possible and will provide all the
 necessary details as soon as they are available.
 If you have any further questions or need additional clarification, please donÕt hesitate to
@@ -4949,9 +4875,7 @@ Sylvia Hao
 Relationship Manager
 M 0420 675 561
 P 03 9818 8991
-A 33 Camberwell Road, Hawthorn East VIC 3123
-
-On 6/06/2025 4:36 PM, Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
+=== 20250611-Re_Rent_Adjustment_---_Request_for_Clarification_and-76.pdf ===
 wrote:
 Dear Sylvia,
 Thank you for your response dated Friday, 6 June 2025 at 11:50am.
@@ -5204,9 +5128,7 @@ P 03 9818 8991
 A 33 Camberwell Road, Hawthorn East VIC 3123
 
 On 10/06/2025 12:55 PM, "Sylvia Hao - Areal Property Hawthorn (MPM)"
-<MPM@email.propertyme.com> wrote:
-Email
-
+=== 20250611-You_have_reached_us_outside_of_business_hours-75.pdf ===
 agent image
 Dear Chawakorn,
 Thank you for your email and for clearly outlining your concerns. We completely
@@ -5266,9 +5188,7 @@ Re: Rent Adjustment Ð Request for ClariÞcation and Meeting (12 June)
 the basis for valid consent.
 Secondly, I must emphasise that I cannot authorise access until the following
 points are clearly confirmed in writing:
-1. A definitive and specific repair timeline, including projected completion date.
-2. Whether temporary relocation will be required, and if so, what arrangements
-or compensation are being offered.
+=== 20250612-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-68.pdf ===
 3. Your position on my formal request for rent reduction and confirmation of nonliability, which remain outstanding.
 4. Acknowledgment of the impact on my co-tenant, who is also named in the
 lease agreement, and who will equally be affected by noise and accessibility
@@ -5572,9 +5492,7 @@ A 33 Camberwell Road, Hawthorn East VIC 3123
 
 On 10/06/2025 12:55 PM, "Sylvia Hao - Areal Property Hawthorn (MPM)"
 <MPM@email.propertyme.com> wrote:
-Email
-
-agent image
+=== 20250613-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-69.pdf ===
 Dear Chawakorn,
 Thank you for your email and for clearly outlining your concerns. We completely
 understand the frustration and inconvenience this ongoing issue has caused, and
@@ -6008,9 +5926,7 @@ Sylvia Hao
 Relationship Manager
 M
 
-0420 675 561
-
-P
+=== 20250613-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-70.pdf ===
 A
 
 03 9818 8991
@@ -6391,9 +6307,7 @@ Sylvia Hao
 
 30/8/68, 16:50
 
-5 of 10
-
-Re: Follow-up Ð Formal Demand & Statement Regarding Unresolved Repairs (Unit 1803)
+=== 20250613-You_have_reached_us_outside_of_business_hours-74.pdf ===
 Relationship Manager
 M 0420 675 561
 P 03 9818 8991
@@ -6454,9 +6368,7 @@ of the repair planning. Such unclear and last-minute communication cannot form
 the basis for valid consent.
 Secondly, I must emphasise that I cannot authorise access until the following
 points are clearly confirmed in writing:
-1. A definitive and specific repair timeline, including projected completion date.
-2. Whether temporary relocation will be required, and if so, what arrangements
-or compensation are being offered.
+=== 20250616-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-71.pdf ===
 3. Your position on my formal request for rent reduction and confirmation of nonliability, which remain outstanding.
 4. Acknowledgment of the impact on my co-tenant, who is also named in the
 lease agreement, and who will equally be affected by noise and accessibility
@@ -6690,9 +6602,7 @@ To: "Sylvia Hao - Areal Property Hawthorn (MPM)" <MPM@email.propertyme.com>
 just wondering if thereÕs any update on the general repair days or schedule?
 if you have anything rough before 9:30 monday, feel free to send it through, just so I can sort out what to do
 
-not a big deal either way, just thought IÕd check
-iÕll probably just reply before 12:00 like you mentioned
-might be out of touch after that
+=== 20250616-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-72.pdf ===
 
 thanks
 chawakorn
@@ -7060,9 +6970,7 @@ addressed in writing. These are matters that should be readily available to your
 I find it concerning that they remain unanswered despite repeated and reasonable
 requests.
 
-I’ve done my best to remain cooperative, flexible, and patient, even though I am the one
-living with the ongoing impact. But based on the way this has been handled, I no longer
-
+=== 20250616-You_have_reached_us_outside_of_business_hours-73.pdf ===
 believe that an in-person meeting will lead to any meaningful resolution — especially when
 my time and concerns have not been respected.
 
@@ -7124,13 +7032,9 @@ Sylvia Hao
 Relationship Manager
 M
 
-0420 675 561
+=== 20250618-Remediation_Works_---_Start_Date_Confirmed-62.pdf ===
 
-P
-
-03 9818 8991
-
-A
+=== 20250623-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-52.pdf ===
 
 33 Camberwell Road, Hawthorn East VIC 3123
 
@@ -7457,9 +7361,7 @@ A 33 Camberwell Road, Hawthorn East VIC 3123
 
 2 of 7
 
-Re: Follow-up Ð Formal Demand & Statement Regarding Unresolved Repairs (Unit 1803)
-
-On 16/06/2025 4:37 AM, Chawakorn Kamnuansil <ck.chawakorn@gmail.com> wrote:
+=== 20250623-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-53.pdf ===
 just wondering if thereÕs any update on the general repair days or schedule?
 if you have anything rough before 9:30 monday, feel free to send it through, just so I can sort out what to
 do
@@ -7754,9 +7656,7 @@ must be in writing by email, as phone calls cannot be recorded or documented for
 Regards,
 
 lof
-6
-
-30/8/68, 16:50
+=== 20250623-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-54.pdf ===
 
 2 of 6
 
@@ -8019,9 +7919,7 @@ Date: 23/6/68, 18:17
 To: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
 agent image
 Hi Chawakorn,
-Thank you for your reply. I want to start by sincerely apologising for the inconvenience and
-frustration this ongoing issue has caused you. I truly understand how disruptive this must be, and I
-appreciate your continued patience throughout.
+=== 20250624-RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawthorn_-57.pdf ===
 After reviewing the communication trail, I want to clarify that the source of the leak originates from
 a common area of the building, which falls under the Owners Corporation's (OC) responsibility. As a
 result, all scheduling and repair works need to be coordinated through them. Unfortunately, this has
@@ -8080,9 +7978,7 @@ accommodation or practical alternatives to the tenant Ñ then please confirm tha
 
 Re: Follow-up Ð Formal Demand & Statement Regarding Unresolved Repairs (Unit 1803)
 
-would actually be helpful for me to have that confirmed, because I have now submitted this matter
-to VCAT and am preparing to provide a complete record of whatÕs happened.
-
+=== 20250624-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-55.pdf ===
 Again, I am not refusing access. I am simply asking a question that no one has answered: where
 am I supposed to stay?
 
@@ -8376,9 +8272,7 @@ frustration this ongoing issue has caused you. I truly understand how disruptive
 appreciate your continued patience throughout.
 After reviewing the communication trail, I want to clarify that the source of the leak originates from
 a common area of the building, which falls under the Owners Corporation's (OC) responsibility. As a
-result, all scheduling and repair works need to be coordinated through them. Unfortunately, this has
-contributed to the delays, and I understand how frustrating that can be.
-To address your first question: Sylvia did send an email on 18 June 2025 to both you and Podjana
+=== 20250624-Re_Follow-up_---_Formal_Demand_-_Statement_Regarding-56.pdf ===
 once the OC confirmed the appointment details. IÕve attached a screenshot of that email for your
 
 30/8/68, 16:49
@@ -8689,9 +8583,7 @@ Senior Relationship Manager
 M 0420 846 041
 E johnson.tan@areal.com.au
 P 03 9818 8991
-A 33 Camberwell Road Hawthorn East VIC 3123
-
-30/8/68, 16:49
+=== 20250624-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-58.pdf ===
 
 2 of 8
 
@@ -8775,19 +8667,11 @@ Regards,
 
 4 of 8
 
-Re: Follow-up Ð Formal Demand & Statement Regarding Unresolved Repairs (Unit 1803)
+=== 20250624-Receipt_of_payment_for_1803_243_Franklin_Street-_M-59.pdf ===
 
-Chawakorn Kamnuansil
-
-On Mon, 23 Jun 2025 at 14:35, Johnson Tan - Areal Property Hawthorn (MPM)
-<MPM@email.propertyme.com> wrote:
-agent image
-Hi Chawakorn,
-Good afternoon and hope you are well.
-Sylvia is currently on leave and will be back on 7 July.
-Just a quick reminder that the remediation work will be commenced on tomorrow (24 June)
-at 8:30AM.
-Please ensure you will be able to provide access for the trade.
+=== 20250624-Residential_Tenancies_Dispute_Submission_for_RT252-60.pdf ===
+=== 20250624-VCAT_RDRV_account_email_verification_code-61.pdf ===
+=== 20250624-You_have_reached_us_outside_of_business_hours-51.pdf ===
 Thank you very much!
 Johnson Tan
 Senior Relationship Manager
@@ -8952,12 +8836,8 @@ A 33 Camberwell Road, Hawthorn East VIC 3123
 If you have any feedback regarding my service, please feel free to contact my manager.
 
 Jamie Ong (Head of Property Management) jamie.ong@areal.com.au
-DISCLAIMER & WARNING. This correspondence and the information contained in this and associated e-mails are confidential and were only intended for
-the exclusive use of the addressee(s). If you have received this e-mail in error, any use, copying or inference with this information is unauthorized and
-prohibited and please immediately delete it and any related attachments or emails from your system and its related sub system and notify the sender. You
-must never copy, disclose, make conclusions and other information in this message that do not relate to the business of the Areal Property and shall be
-understood as neither given nor approved or agreed by it. Although Areal Property has taken reasonable precautions to ensure no viruses are present in
-this e-mail, Areal Property cannot accept responsibility for any loss or damage arising from the use of this e-mail or attachments.
+=== 20250625-RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawthorn_-25.pdf ===
+=== 20250625-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-26.pdf ===
 Click to unsubscribe from future email communication
 
 30/8/68, 16:49
@@ -9087,9 +8967,7 @@ any loss or damage arising from the use of this e-mail or attachments.
 Click to unsubscribe from future email communication
 
 Attachments:
-Receipt # 90497.pdf
-
-77.9 KB
+=== 20250625-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-27.pdf ===
 
 30/8/68, 16:49
 
@@ -9173,9 +9051,7 @@ VCAT RDRV
 ===== START FILE: ./20250624-You_have_reached_us_outside_of_business_hours-51.txt =====
 1 of 2
 
-You have reached us outside of business hours
-
-Subject: You have reached us outside of business hours
+=== 20250626-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-28.pdf ===
 From: "Areal Property Hawthorn (MPM)" <MPM@email.propertyme.com>
 Date: 24/6/68, 22:09
 To: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
@@ -9320,9 +9196,7 @@ system and its related sub system and notify the sender. You must never copy, di
 and shall be understood as neither given nor approved or agreed by it. Although Areal Property has taken reasonable precautions to ensure no viruses are present in this e-mail, Areal Property cannot
 accept responsibility for any loss or damage arising from the use of this e-mail or attachments.
 
-From: CSV-VCAT-Cases (CSV) <Cases@courts.vic.gov.au>
-Sent: Wednesday, 25 June 2025 2:39 PM
-To: Johnson Tan <johnson.tan@areal.com.au>
+=== 20250626-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-29.pdf ===
 Cc: Areal Property MPM <mpm@email.propertyme.com>; ck.chawakorn@gmail.com;
 bewty980219@gmail.com
 Subject: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
@@ -9536,9 +9410,7 @@ bewty980219@gmail.com
 Subject: RE: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
 Hi Matthew,
 Thank you for your email.
-I have spoken with them yesterday morning and they have advised that due to their tight
-schedule, they will have to look into their booking and let us know when is the next available date.
-The contractor advised that the next available date should be within the next 6-7 business days.
+=== 20250626-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-30.pdf ===
 Since I havenÕt received any conÞrmation, I have just sent another email to the OC and the
 contractor, asking them to provide a date & time.
 I will let you know once I have heard back from them.
@@ -9772,11 +9644,8 @@ reattend the property. Could you please conÞrm this by close of business today.
 
 30/8/68, 16:49
 
-5 of 6
-
-Re: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
-
-If not I will need to progress this matter to a hearing due to timeframes required to list urgent
+=== 20250627-RDRV_Order_-_RT252398_CMS_0014256123-48.pdf ===
+=== 20250627-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-31.pdf ===
 repair applications.
 
 If an agreement can be reached regarding a timeframe to resolve the repair issue this matter
@@ -10086,9 +9955,7 @@ To: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
 
 New order for RT252398
 A new order for RT252398 is attached to this email.
-If you do not have a myRDRV portal account, you can sign up here
-With a myRDRV account you can:
-¥ Get notifications on your case and tasks you need to complete
+=== 20250627-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-32.pdf ===
 ¥ See details of your hearings scheduled and orders
 ¥ Upload your documents and see documents from other parties
 
@@ -10397,9 +10264,7 @@ tax invoice.pdf
 30/8/68, 16:49
 
 
-===== END FILE: ./20250627-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-31.txt =====
-
-===== START FILE: ./20250627-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-32.txt =====
+=== 20250627-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-50.pdf ===
 1 of 7
 
 RE: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
@@ -10621,16 +10486,11 @@ Subject: RE: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
 Hi Matthew,
 Thank you for your email.
 I have spoken with them yesterday morning and they have advised that due to their tight
-schedule, they will have to look into their booking and let us know when is the next available
-date.
-
+=== 20250627-Update_to_RT252398_CMS_0014256122-49.pdf ===
 30/8/68, 16:49
 
-6 of 7
-
-RE: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
-
-The contractor advised that the next available date should be within the next 6-7 business
+=== 20250627-VCAT_RDRV_account_email_verification_code-47.pdf ===
+=== 20250701-Areal_monthly_after-hours_trades_list_update-45.pdf ===
 days.
 Since I havenÕt received any conÞrmation, I have just sent another email to the OC and the
 contractor, asking them to provide a date & time.
@@ -10854,8 +10714,7 @@ www.areal.com.au
 
 30/8/68, 16:49
 
-4 of 5
-
+=== 20250701-Areal_monthly_after-hours_trades_list_update-46.pdf ===
 Re: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123 CMS:0056400069
 
 DISCLAIMER & WARNING. This correspondence and the information contained in this and associated e-mails are confidential and were only intended for the exclusive use of the addressee(s). If you
@@ -11030,9 +10889,7 @@ working
 ◦ The gas, electricity or water supply is not working
 ◦ A cooling appliance or service provided by the rental provider is not working
 ◦ The property does not meet minimum standards
-◦ A safety-related device, such as a smoke alarm or pool fence, is not working
-◦ An appliance, fitting or fixture that is not working and causes a lot of water to be wasted
-◦ Any fault or damage in the property that makes it unsafe or insecure, including pests, mould
+=== 20250701-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-33.pdf ===
 or damp caused by or related to the building structure
 ◦ A serious problem with a lift or staircase.
 
@@ -11424,9 +11281,7 @@ Tenant Ð Unit 1803, 243 Franklin St
 On Fri, Jun 27, 2025 at 3:09PM Johnson Tan <johnson.tan@areal.com.au> wrote:
 Hi Chawakorn & Matthew,
 
-Good afternoon and hope you all are well.
-Quick update, we have served 3 x notice of entry today via registered post (please refer to the
-Þles attached).
+=== 20250701-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-34.pdf ===
 FIXD will need access to the property at 8AM on 7 July 2025, and for the rest of the week as
 mentioned in the notice.
 
@@ -11816,9 +11671,7 @@ DISCLAIMER & WARNING. This correspondence and the information contained in this 
 have received this e-mail in error, any use, copying or inference with this information is unauthorized and prohibited and please immediately delete it and any related attachments or emails from your
 system and its related sub system and notify the sender. You must never copy, disclose, make conclusions and other information in this message that do not relate to the business of the Areal Property
 and shall be understood as neither given nor approved or agreed by it. Although Areal Property has taken reasonable precautions to ensure no viruses are present in this e-mail, Areal Property cannot
-accept responsibility for any loss or damage arising from the use of this e-mail or attachments.
-
-From: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
+=== 20250701-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-35.pdf ===
 Sent: Tuesday, 1 July 2025 3:08 PM
 To: Johnson Tan <johnson.tan@areal.com.au>
 Cc: CSV-VCAT-Cases (CSV) <Cases@courts.vic.gov.au>; Areal Property MPM
@@ -12256,9 +12109,7 @@ speciÞc time estimates for this phase, as the duration will depend on how quick
 moisture levels are reached. Once the area has dried su ciently, they will proceed with the
 necessary repair work. Please note that because the contractor has not yet assessed the current
 site conditions in full, they are unable to provide a deÞnitive timeline or scope for the repairs at
-this time.
-3. Risk statement Ð water / power interruptions & noise levels - Pending FIXDÕs reply
-4. Public-liability / PI insurance certiÞcate - Pending FIXDÕs reply
+=== 20250703-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-36.pdf ===
 
 30/8/68, 16:48
 
@@ -12312,9 +12163,7 @@ Quick update, we have served 3 x notice of entry today via registered post (plea
 
 4 of 10
 
-RE: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
-
-FIXD will need access to the property at 8AM on 7 July 2025, and for the rest of the week as
+=== 20250703-You_have_reached_us_outside_of_business_hours-44.pdf ===
 mentioned in the notice.
 This will be the Þrst stage of remediation work, which is to treat the mould and bring the
 moisture level down.
@@ -12375,9 +12224,7 @@ Hi Chawakorn,
 Since no access was given on 24 June 2025, the contractor has sent us the attached invoice.
 Please advise whether you would like to pay them directly.
 Otherwise, the OC will settle with FIXD and on-charge the amount to Lot 1803A, and the rental
-provider will be seeking reimbursement from you.
-Please advise, thank you.
-From: Johnson Tan
+=== 20250704-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-37.pdf ===
 Sent: Thursday, 26 June 2025 1:04 PM
 To: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>; CSV-VCAT-Cases (CSV)
 <Cases@courts.vic.gov.au>
@@ -12510,9 +12357,7 @@ system and its related sub system and notify the sender. You must never copy, di
 and shall be understood as neither given nor approved or agreed by it. Although Areal Property has taken reasonable precautions to ensure no viruses are present in this e-mail, Areal Property cannot
 accept responsibility for any loss or damage arising from the use of this e-mail or attachments.
 
-From: Johnson Tan
-Sent: Wednesday, 25 June 2025 3:46 PM
-To: CSV-VCAT-Cases (CSV) <Cases@courts.vic.gov.au>
+=== 20250704-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-38.pdf ===
 Cc: Areal Property MPM <mpm@email.propertyme.com>; ck.chawakorn@gmail.com;
 bewty980219@gmail.com
 Subject: RE: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
@@ -12674,8 +12519,7 @@ VCAT Ref: RT252398
 
 30/8/68, 16:48
 
-
-===== END FILE: ./20250703-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-36.txt =====
+=== 20250704-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-39.pdf ===
 
 ===== START FILE: ./20250703-You_have_reached_us_outside_of_business_hours-44.txt =====
 1 of 2
@@ -12838,9 +12682,7 @@ Therefore, a singular, fundamental question requires your immediate attention:
 RE: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
 
 Where, precisely, are my roommate and I supposed to live while our bedroom is a
-work site?
-To be clear, any refusal of entry based on an unworkable or unreasonable planÑ
-similar to the unhelpful suggestions you have provided in the pastÑwill not be
+=== 20250704-You_have_reached_us_outside_of_business_hours-43.pdf ===
 considered a breach on my part. The responsibility to provide a viable, respectful
 solution rests entirely with you. Consider this carefully.
 I require your clear, written plan for suitable temporary accommodation by 5:00 PM
@@ -12901,9 +12743,7 @@ threat of charges if access is deniedÑyet you remain unable to answer the most 
 about where your tenants will live.
 If Sylvia chose to claim ÒconÞrmationÓ on my behalf, perhaps the cost of this entire
 situation belongs with her, not me.
-I look forward to seeing whether you can provide an actual plan rather than more excuses.
-Chawakorn Kamnuansil
-Tenant Ð Unit 1803
+=== 20250707-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-40.pdf ===
 VCAT Ref: RT252398
 On Fri, Jul 4, 2025 at 5:55PM Johnson Tan - Areal Property Hawthorn (MPM)
 <MPM@email.propertyme.com> wrote:
@@ -13100,9 +12940,7 @@ SEND WITHIN 24 HOURS
 6. Daily-rate schedule for drying equipment **plus** written assurance that no
 Òno-accessÓ surcharge will be levied without a Tribunal order
 
-Please refer to the reply from FIXD:
-
-Site Contact:
+=== 20250709-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-41.pdf ===
 Jesse - 0401 579 930
 This is not a 24 hours mobile number, only available Mon-Fri (8AM - 4PM)
 Mould Remediation Technicians:
@@ -13331,9 +13169,7 @@ To: Areal Property MPM <mpm@email.propertyme.com>; Johnson Tan
 Cc: Cases@courts.vic.gov.au; bewty980219@gmail.com; Sylvia Hao <sylvia.hao@areal.com.au>
 Subject: Re: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
 
-Hi Johnson,
-Resending thisÑjust to be sure it doesnÕt get lost in whichever account you feel like using
-today.
+=== 20250711-Notice_to_vacate_-_1803_243_Franklin_Street-_Melbo-24.pdf ===
 Consider it a polite note that swapping signatures and email headers doesnÕt erase whatÕs
 actually happened here, or who is responsible.
 
@@ -13385,9 +13221,7 @@ Site Contact:
 Jesse - 0401 579 930
 This is not a 24 hours mobile number, only available Mon-Fri (8AM - 4PM)
 Mould Remediation Technicians:
-Liam
-Shanilka
-Michael
+=== 20250711-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-42.pdf ===
 Briana
 
 DBA of equipment:
@@ -13686,9 +13520,7 @@ I require your clear, written plan for suitable temporary accommodation by 5:00 
 tomorrow, 4 July 2025.
 If you fail to provide this plan by the deadline, I will, without further notice, file an urgent
 application with VCAT and a formal complaint with Consumer Affairs Victoria. The
-complaint will detail the entire pattern of conduct outlined in this email, including your
-issuance of defective legal documents, fabrication of evidence, and abdication of
-professional duties.
+=== 20250711-Vacating_instructions_-_1803_243_Franklin_Street-_-23.pdf ===
 Your own documents will form the basis of my submissions.
 Chawakorn Kamnuansil
 Unit 1803
@@ -13776,18 +13608,10 @@ Message Thread Franklin Stpdf.pdf
 
 ===== END FILE: ./20250711-Notice_to_vacate_-_1803_243_Franklin_Street-_Melbo-24.txt =====
 
-===== START FILE: ./20250711-Re_RDRV_-_Case_RT252398_-_33_Camberwell_Rd-_Hawtho-42.txt =====
-1 of 8
-
-Re: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
-
-Subject: Re: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
-From: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
-Date: 11/7/68, 13:18
-To: Johnson Tan <johnson.tan@areal.com.au>
-CC: Areal Property MPM <mpm@email.propertyme.com>, "Cases@courts.vic.gov.au"
-<Cases@courts.vic.gov.au>, "bewty980219@gmail.com" <bewty980219@gmail.com>, Sylvia
-Hao <sylvia.hao@areal.com.au>
+=== 20250714-VCAT_Application_R202518214_00_---_Challenge_to_Noti-5.pdf ===
+=== 20250714-VCAT_RDRV_account_email_verification_code-22.pdf ===
+=== 20250714-VCAT_Residential_Tenancies_Hub_-_Please_confirm_yo-21.pdf ===
+=== 20250714-VCAT_has_opened_a_case_R202518214_00_about_243_Fr-20.pdf ===
 Dear Johnson, Sylvia, and Team,
 
 I am including Sylvia here, as she was notably quick to declare the $800 compensation as
@@ -13986,9 +13810,7 @@ This is not a 24 hours mobile number, only available Mon-Fri (8AM - 4PM)
 Mould Remediation Technicians:
 Liam
 Shanilka
-Michael
-Briana
-DBA of equipment:
+=== 20250714-You_have_reached_us_outside_of_business_hours-19.pdf ===
 DehumidiÞer Ð 52 decibels each
 Air movers Ð 52-60 decibels (depending on speed setting) each
 *Quantity installed cannot be conÞrmed due to the nature of repairs.
@@ -14048,9 +13870,7 @@ Where, precisely, are my roommate and I supposed to live while our bedroom is
 Re: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
 
 a work site?
-To be clear, any refusal of entry based on an unworkable or unreasonable planÑ
-similar to the unhelpful suggestions you have provided in the pastÑwill not be
-considered a breach on my part. The responsibility to provide a viable, respectful
+=== 20250715-Automated_response_-_VCAT_Residential_Tenancies-14.pdf ===
 solution rests entirely with you. Consider this carefully.
 I require your clear, written plan for suitable temporary accommodation by 5:00 PM
 tomorrow, 4 July 2025.
@@ -14138,9 +13958,7 @@ Vacating instructions - 1803/243 Franklin Street, Melbourne VIC 3000
 agreement & as per the in-going condition report. To assist with the cleaning process, we have attached the
 document labelled ÒVacate cleaning guideÕÕ to help you or your preferred cleaner.
 
-Keys and Property Access: Please ensure that all keys, remotes, and other access devices provided to you
-are returned to the office and signed back in by your vacate date. Any unreturned or lost items will need to be
-replaced at your expense. Do not leave keys in the letterbox due to the risk of theft. Renters are responsible for
+=== 20250715-Automated_response_-_VCAT_Residential_Tenancies-15.pdf ===
 replacing locks and keys if they are stolen from the letterbox.
 
 If you have any questions or need clarification on any of the above points, please don't hesitate to reach out.
@@ -14227,12 +14045,9 @@ Your code is: 710771
 Sincerely,
 VCAT RDRV
 
-30/8/68, 16:48
+=== 20250715-Fwd__VCAT_Application_R202518214_00_---_Challenge_to-7.pdf ===
 
-
-===== END FILE: ./20250714-VCAT_RDRV_account_email_verification_code-22.txt =====
-
-===== START FILE: ./20250714-VCAT_Residential_Tenancies_Hub_-_Please_confirm_yo-21.txt =====
+=== 20250715-Re_Your_VCAT_application__more_information_needed--17.pdf ===
 1 of 1
 
 VCAT Residential Tenancies Hub - Please conÞrm your registration
@@ -14383,13 +14198,10 @@ Our organisation respects the privacy of individuals. For a copy of our privacy 
 
 3 of 3
 
-VCAT has opened a case R202518214/00 about 243 Franklin St, Unit1803, MELBOURNE, VIC, 3000
+=== 20250715-VCAT_RDRV_account_email_verification_code-18.pdf ===
 
-website or contact us.
+=== 20250715-Your_VCAT_application__more_information_needed-_VC-16.pdf ===
 
-30/8/68, 16:48
-
-
 ===== END FILE: ./20250714-VCAT_has_opened_a_case_R202518214_00_about_243_Fr-20.txt =====
 
 ===== START FILE: ./20250714-You_have_reached_us_outside_of_business_hours-19.txt =====
@@ -14476,12 +14288,8 @@ You must submit your evidence at least 3 days prior to your hearing. (This may b
 urgent cases.)
 Click the link to upload and submit your evidence. Ensure you have shared these Þles with the
 other party. Do not submit any other information using this link.
-If you have multiple cases in progress, they will each have a separate upload link.
-The link is active for 6 months from the date it is sent to you. If the case is still active after 6
-months, you will require a new link.
-If you are attending a hearing in person at one of our VCAT venues, you must also bring a paper
-copy of all your documents to the hearing for the Member. If you have not provided VCAT with an
-email address, please contact us immediately on renting@courts.vic.gov.au to advise of your email
+=== 20250717-VCAT_RDRV_account_email_verification_code-13.pdf ===
+=== 20250721-VCAT_Application_---_Possession_of_Property_-Ref__R2-12.pdf ===
 address and ask for your evidence link.
 If you do not have a copy of the link, please email renting@courts.vic.gov.au
 How to send and access evidence in a residential tenancy case | VCAT
@@ -14555,9 +14363,7 @@ Automated response - VCAT Residential Tenancies
 Subject: Automated response - VCAT Residential Tenancies
 From: "CSV-VCAT-RT Inbox (CSV)" <renting@courts.vic.gov.au>
 Date: 15/7/68, 18:34
-To: Chawakorn Kamnuansil <ck.chawakorn@gmail.com>
-
-This is an automated email. To contact VCAT email renting@courts.vic.gov.au or phone 1300 01
+=== 20250721-VCAT_has_opened_a_case_R202518589_00_about_1803_2-11.pdf ===
 8228 (1300 01 VCAT)
 How do I submit my evidence to VCAT for the hearing?
 You will receive an email from VCAT which includes a link enabling you to upload your documents
@@ -14677,9 +14483,7 @@ VCAT Application R202518214:00 - Notice to Vacate Challenge.pdf
 
 66.9 KB
 
-NOTICE TO VACATE U1803 243 FRANKLIN ST.pdf
-
-17.2 KB
+=== 20250722-Hearing_scheduled_for_R202518589_00_1803_243_Frank-9.pdf ===
 
 30/8/68, 16:47
 
@@ -14795,8 +14599,7 @@ NOTICE TO VACATE U1803 243 FRANKLIN ST.pdf
 
 30/8/68, 16:47
 
-
-===== END FILE: ./20250715-Re_Your_VCAT_application__more_information_needed--17.txt =====
+=== 20250722-Re_VCAT_Application_R202518214_00_---_Challenge_to_N-8.pdf ===
 
 ===== START FILE: ./20250715-VCAT_RDRV_account_email_verification_code-18.txt =====
 1 of 1
@@ -14870,9 +14673,7 @@ Administrative O cer, Residential Tenancies
 
 Your VCAT application: more information needed- VCAT reference: R202518214
 
-Victorian Civil and Administrative Tribunal
-55 King Street, Melbourne VIC 3000
-1300018228
+=== 20250722-VCAT_order_made_about_R202518214_00_243_Franklin_S-10.pdf ===
 
 renting@courts.vic.gov.au
 
@@ -14947,18 +14748,11 @@ A 33 Camberwell Road, Hawthorn East VIC 3123
 
 30/8/68, 16:47
 
-2 of 2
+=== 20250723-VCAT_RDRV_account_email_verification_code-1.pdf ===
+=== 20250723-VCAT_RDRV_account_email_verification_code-2.pdf ===
 
-VCAT Application Ð Possession of Property (Ref: R202518589/00)
-
-If you have any feedback regarding my service, please feel free to contact my manager.
-
-Jamie Ong (Head of Property Management) jamie.ong@areal.com.au
-DISCLAIMER & WARNING. This correspondence and the information contained in this and associated e-mails are confidential and were
-only intended for the exclusive use of the addressee(s). If you have received this e-mail in error, any use, copying or inference with this
-information is unauthorized and prohibited and please immediately delete it and any related attachments or emails from your system and
-its related sub system and notify the sender. You must never copy, disclose, make conclusions and other information in this message that
-do not relate to the business of the Areal Property and shall be understood as neither given nor approved or agreed by it. Although Areal
+=== 20250723-VCAT_RDRV_account_email_verification_code-3.pdf ===
+=== 20250723-VCAT_order_made_about_R202518589_00_1803_243_Frank-4.pdf ===
 Property has taken reasonable precautions to ensure no viruses are present in this e-mail, Areal Property cannot accept responsibility for
 any loss or damage arising from the use of this e-mail or attachments.
 Click to unsubscribe from future email communication
@@ -15088,16 +14882,12 @@ Our organisation respects the privacy of individuals. For a copy of our privacy 
 
 30/8/68, 16:47
 
-3 of 3
-
-VCAT has opened a case R202518589/00 about 1803/243 Franklin Street, MELBOURNE, VIC, 3000
-
-website or contact us.
+=== 20250724-VCAT_evidence_link_R202518589_about_1803_243_Frank-112.pdf ===
+=== 20250725-Receipt_of_payment_for_1803_243_Franklin_Street-_M-113.pdf ===
 
 30/8/68, 16:47
 
-
-===== END FILE: ./20250721-VCAT_has_opened_a_case_R202518589_00_about_1803_2-11.txt =====
+=== 20250801-Areal_monthly_after-hours_trades_list_update-114.pdf ===
 
 ===== START FILE: ./20250722-Hearing_scheduled_for_R202518589_00_1803_243_Frank-9.txt =====
 1 of 3
@@ -15355,9 +15145,7 @@ Phone.png
 
 renting@courts.vic.gov.au
 
-Aboriginal_Flag.png VCAT acknowledges the Traditional Owners of the land on which we stand and pay our
-respects to Elders past, present and future.
-
+=== 20250808-Hearing_reminder_for_1803_243_Franklin_Street-_MEL-141.pdf ===
 linkedin_icon.png youtube_icon.png
 
 55 King Street, Melbourne VIC 3000
@@ -15432,17 +15220,12 @@ To: ck.chawakorn@gmail.com
 Verify your email address
 Thanks for verifying your ck.chawakorn@gmail.com account!
 Your code is: 101847
-Sincerely,
-VCAT RDRV
-
+=== 20250812-R202518589_00_-_Summary_of_Proof-144.pdf ===
 30/8/68, 16:47
 
-
-===== END FILE: ./20250723-VCAT_RDRV_account_email_verification_code-3.txt =====
+=== 20250812-Re_R202518589_00_-_Summary_of_Proof-145.pdf ===
 
-===== START FILE: ./20250723-VCAT_order_made_about_R202518589_00_1803_243_Frank-4.txt =====
-1 of 2
-
+=== 20250815-VCAT_order_made_about_R202518589_00_1803_243_Frank-146.pdf ===
 VCAT order made about R202518589/00 1803/243 Franklin Street, MELBOURNE, VIC, 3000
 
 Subject: VCAT order made about R202518589/00 1803/243 Franklin Street, MELBOURNE, VIC, 3000
@@ -15589,9 +15372,7 @@ With thanks,
 Sylvia Hao
 Areal Property (MPM) Pty Ltd
 03 9818 8991
-sylvia.hao@areal.com.au
-https://www.areal.com.au/
-
+=== 20250817-_Without_Prejudice_---_Franklin_1803__Settlement_Ter-147.pdf ===
 If you have any feedback regarding my service, please feel free to contact my manager.
 
 Jamie Ong (Head of Property Management) jamie.ong@areal.com.au
@@ -15705,9 +15486,7 @@ Conway)
 03 9770 8879
 nicole@ourair.com.au
 
-Our Air
-
-Electrical
+=== 20250819-Re_Without_Prejudice_---_Franklin_1803__Settlement_T-148.pdf ===
 
 Lume
 
@@ -15880,9 +15659,7 @@ website or contact us.
 ===== START FILE: ./20250812-R202518589_00_-_Summary_of_Proof-144.txt =====
 1 of 1
 
-R202518589/00 - Summary of Proof
-
-Subject: R202518589/00 - Summary of Proof
+=== 20250822-1803_243_Franklin_Street-_Melbourne_VIC_3000_-_Not-160.pdf ===
 From: Shaun Young <shaun.young@areal.com.au>
 Date: 12/8/68, 14:35
 To: "renting@vcat.vic.gov.au" <renting@vcat.vic.gov.au>
@@ -15979,12 +15756,8 @@ VCAT Decision and Order
 Dear Sir/Madam,
 VCAT Reference: R202518589/00
 VCAT has made a decision in the dispute about:
-Rented Premises: 1803/243 Franklin Street, MELBOURNE, VIC, 3000
-Both parties must follow VCAT's decision in the VCAT order:
-
-View VCAT order
-If you cannot access your order, copy and paste this link into your web browser: https://
-applications.vcat.vic.gov.au/api/tkda/75eha0bb62bi9c1k3aqtrokntq7pmaxi9vbdegz0 or contact us..
+=== 20250827-Receipt_of_payment_for_1803_243_Franklin_Street-_M-161.pdf ===
+=== 20250828-Re_1803_243_Franklin_Street-_Melbourne_VIC_3000_-_-162.pdf ===
 
 Information on VCAT decisions
 Read more information about VCAT decisions and orders, including enforcing a VCAT order:
@@ -16117,9 +15890,7 @@ mbox
 
 30/8/68, 16:47
 
-3 of 5
-
-Without Prejudice Ñ Franklin 1803: Settlement Terms (VCAT R2025/18589/00)
+=== Application_for_renewal_of_repairs.pdf ===
 Screenshot 2025-08-17 at 04.24.45.png
 
 30/8/68, 16:47
@@ -16227,9 +15998,7 @@ STELLAR
 AGENCY
 
 DISCLAIMER & WARNING. This correspondence and the information contained in this and associated e-mails are confidential and were only intended for the exclusive use ofthe addressee(s). If you
-have received this e-mail in error, any use, copying or inference with this information is unauthorized and prohibited and please immediately delete it and any related attachments or emails from your
-system and its related sub system and notify the sender. You must never copy, disclose, make conclusions and other information in this message that do not relate to the business of the Areal Property
-
+=== AusPost_lodgement.pdf ===
 and shall be understood as neither given nor approved or agreed by it. Although Areal Property has taken reasonable precautions to ensure no viruses are present in this e-mail, Areal Property cannot
 accept responsibility for any loss or damage arising from the use of this e-mail or attachments.
 
@@ -16369,15 +16138,9 @@ communicate with you about timings so you’re aware.
 We thank you in advance for your cooperation and will have these works completed as quickly
 as possible.
 
-Kind Regards,
-
-Shaun Young
-Relationship Manager
-0492 847 287
-
-shaun.young@areal.com.au
-03 9818 8991
-
+=== Chawakorn_Response_Repair_Access.pdf ===
+=== ClaudeAi_sevice_cost.pdf ===
+=== Electricity_Bill_June.pdf ===
 33 Camberwell Road Hawthorn East VIC 3123
 
 www.areal.com.au
@@ -16791,9 +16554,7 @@ Please retain as proof of lodgement.
 
 Subtotal
 
-$0.00
-
-Total
+=== Electricity_Bill_May.pdf ===
 
 $0.00
 
@@ -17164,12 +16925,8 @@ V[TeZXf TaW VeXW\gf*
 
 5D<=GHI9D< NEJG JH9?=
 
-C\_bjTgg)[bhe
-$WT\_l TiXeTZX%
-
-*125011002Z2*
-
-6bQ^MSQ PMUXe a_MSQ MZP _a\\Xe O[_`_ "UZOX' <GH#
+=== Email notification.pdf ===
+=== Emergency_Maintenance_Trades_Contact_List_Hawthorn.pdf ===
 
 2=I=G <=I9ABH
 AQ`Q^ ZaYNQ^
@@ -17318,9 +17075,7 @@ L\Y N]Whcf]Ub <YZUi`h GZZYf ]g U
 fYUgcbUV`m df]WYX Y`YWhf]W]hm cZZYf gYh
 Vm N]Whcf]U#g ]bXYdYbXYbh fY[i`Uhcf*
 ;cbhUWh ig cb *,* +-. hc X]gWigg h\Y
-gi]hUV]`]hm cZ h\]g d`Ub Zcf mci*
-
-Kiddcfh( Ybei]f]Yg cf Wcad`U]bhg
+=== Exhibit_A_20250616_0437.pdf ===
 MSX'O[Y'Ma(TQX\ cf *,* +-.
 >Ui`hg cf YaYf[YbW]Yg
 8U`U\[cQ^ cb *,* +1)
@@ -17374,14 +17129,9 @@ Gb`]bY6 \[_`NUXX\Me'O[Y'Ma
 H\cbY6 *,* 1*/ Ab dYfgcb Uh Ubm
 Hcgh GZZ]WY*o :]``dUm ;cXY6 ,+)*
 
-&/.,- 3-,/2.53.250-.3-3.45
-
-o Qci aUm \UjY hc dUm U ZYY cZ /*., $]bW`* ?KL% ]Z mci dUm mcif V]`` ]b dYfgcb Uh h\Y Hcgh GZZ]WY* SHUmaYbh dfcWYgg]b[ ZYYg aUm Udd`m hc h\Y hchU` dUmaYbh Uacibh $]bW`*
-?KL% Zcf XYV]h WUfXg ) N]gU ,*-0!( EUghYfWUfX ,*/,! UbX WfYX]h WUfXg ) N]gU ,*21!( EUghYfWUfX ,*33!* <YV]h UbX WfYX]h WUfX dUmaYbhg j]U Hcgh :]``HUm ,*05!*
-
-EQWU % _V '
-
-,ECF9G= LAI@ EI@=G @EC=H AD NEJG 9G=9
+=== Exhibit_B_20250616_1152.pdf ===
+=== Exhibit_C_20250623_1505.pdf ===
+=== Exhibit_D_20250627_1509.pdf ===
 
 + \Q[\XQ
 
@@ -17552,9 +17302,7 @@ $XU]`m UjYfU[Y%
 2=I=G <=I9ABH
 AQ`Q^ ZaYNQ^
 
-FQMP `e\Q
-
-FM`Q PQ_O^U\`U[Z
+=== FIXD_investigation_report.pdf ===
 
 G`M^` ^QRQ^QZOQ
 
@@ -17755,65 +17503,28 @@ ACME Electrcial
 
 03 9770 8879
 nicole@ourair.com.au
-0407 148 606
-info@lumeservices.com.au
-1300 377 827
-info@dsquaredelectrical.com.au
-0410 408 959
-nickd@acmeelectrical.com.au
+=== Formal_Demand_Letter_Chawakorn.pdf ===
+=== Google_Service_cost.pdf ===
 
-Flood
+=== IMG_0548.pdf ===
 
-Flood Response
+=== IMG_0549.pdf ===
 
-Locksmith
-
-Artist locksmith (Paul)
-
-0447 109 101
-service@floodresponse.com.au
-0410 974 734
-
-Marquee locksmith (Mark)
-
-0450 684 040
-
-Wynns Locksmith
-Metro West Plumbing
-
-03 9690 8888
-0417 617 274
-info@metwestplumbing.com.au
-
-Melbourne Plumbing Group
-
-1300 116 486
-info@melbourneplumbinggroup.com.au
-
-Plumbing
-
-In the event that trade on the above list is unable to attend, an alternative local tradesperson may be
-engaged. Please be careful who you engage by checking Google reviews to avoid overpriced and
-dishonest tradespeople.
-Please note, if you do arrange your own trades that they may bill you directly. Please seek
-reimbursement from your property manager accordingly.
-We appreciate your cooperation in promptly reporting any issues so we can address them effectively.
-Please Note: If a tradesperson visits and finds no faults, determines that the issue resulted from user
-error, or the maintenance is of a non-urgent nature, the renter may be responsible for the associated
-costs.
-
-
-===== END FILE: ./Emergency_Maintenance_Trades_Contact_List_Hawthorn.txt =====
-
-===== START FILE: ./Exhibit_A_20250616_0437.txt =====
-From: Chawakorn Kamnuansil ck.chawakorn@gmail.com
-Subject: Re: Follow-up Ð Formal Demand & Statement Regarding Unresolved Repairs (Unit 1803)
-Date: 16 June AD 2025 at 04:36
-To: Sylvia Hao - Areal Property Hawthorn (MPM) MPM@email.propertyme.com
-just wondering if thereÕs any update on the general repair days or schedule?
-if you have anything rough before 9:30 monday, feel free to send it through, just so I can sort out what to do
-
-not a big deal either way, just thought IÕd check
+=== IMG_0551.pdf ===
+=== IMG_0552.pdf ===
+=== IMG_0553.pdf ===
+=== IMG_0726.pdf ===
+=== IMG_0728.pdf ===
+=== IMG_0729.pdf ===
+=== IMG_0804.pdf ===
+=== IMG_0805.pdf ===
+=== IMG_0807.pdf ===
+=== IMG_0881.pdf ===
+=== IMG_0886.pdf ===
+=== IMG_0887.pdf ===
+=== IMG_0888.pdf ===
+=== Medical_Payment_102.00.pdf ===
+=== Message_Thread_Franklin_Stpdf.pdf ===
 iÕll probably just reply before 12:00 like you mentioned
 might be out of touch after that
 thanks
@@ -18232,9 +17943,7 @@ Page 5/6
 
 PHOTO REPORT
 
-Water Stains
-
-Water Damage
+=== Move_out_guide_-_tips_to_get_your_bond_back.pdf ===
 
 Water Damage
 
@@ -18301,9 +18010,7 @@ Chawakorn Kamnuansil
 Google CLOUD ZSwJZB Sydney , 0727 LAST 4
 CARD DIGITS 0265
 
--$100.00
-
-This business may have a different trading name. You can look it
+=== NOTICE_TO_VACATE_U1803_243_FRANKLIN_ST.pdf ===
 up online if you're not sure what it is.
 
 If you think this is an unauthorised transaction, go to Disputing
@@ -18422,9 +18129,7 @@ Hello Chawakorn
 was no response .
 
 It's Flood Response returning your call .
-Unfortunately we are closed today
-Easter Monday public holiday
-
+=== NTE_10-07.pdf ===
 Regards ,
 Flood Response
 
@@ -18486,9 +18191,7 @@ Get help with this transaction
 ©
 Ask Ceba about this transaction
 
-Ceba can provide instant support or connect you with a
-specialist.
-
+=== NTE_11-07.pdf ===
 Message Ceba
 
 »
@@ -18554,9 +18257,7 @@ Created on:
 
 28/05/2025
 
-From:
-
-Miranda Koroknai (mirandak@highrisestrata.com.au)
+=== NTE_14-07.pdf ===
 
 Message type:
 
@@ -18620,9 +18321,7 @@ Hi Sophia,
 I hope you are well.
 Please see below mould remediation inspection results and quote.
 Please advise if we can proceed with costs. Advise for urgent approval due to active mould. As per
-below, the affected bedroom will be unusable during remediation. Therefore, we suggest the renter
-is made aware by the REA prior to us proceeding. The renter can move back in in-between
-remediation and reinstatement repairs.
+=== NTE_15-07.pdf ===
 Upon completion, we will proceed with reinstatement works.
 Summary:
 1. FIXD attended the site to inspect the reported damages and found the following;
@@ -18687,9 +18386,7 @@ moisture levels. However, the length of drying time may vary depending on extern
 as weather conditions and moisture content. FIXD is not responsible for delays in drying due to
 uncontrollable factors. Monitoring will be conducted daily, and any necessary adjustments/cost
 variations will be communicated promptly. FIXD will not be held responsible for any pre-existing
-conditions discovered during the course of remediation, including but not limited to structural
-defects, non-compliant installations, or prior water damage. Any discoveries will be
-communicated to the insured, and additional works may be required outside the scope of this
+=== Notice_of_Entry_-combined-.pdf ===
 project.
 Cost to Date - $342 + GST
 Quote for further remediation - $5304 + GST
@@ -19141,9 +18838,8 @@ no
 Renter please note
 If you want help with this notice, ring the Consumer
 Affairs Victoria on 1300 55 8181
-Notice Number 5274669
+=== Notice_of_entry_7_July_2025.pdf ===
 
-
 ===== END FILE: ./NTE_14-07.txt =====
 
 ===== START FILE: ./NTE_15-07.txt =====
@@ -19209,9 +18905,8 @@ no
 Renter please note
 If you want help with this notice, ring the Consumer
 Affairs Victoria on 1300 55 8181
-Notice Number 5274681
+=== Notice_of_entry_8_July_2025.pdf ===
 
-
 ===== END FILE: ./NTE_15-07.txt =====
 
 ===== START FILE: ./Notice_of_Entry_-combined-.txt =====
@@ -19280,9 +18975,7 @@ If you want help with this notice, ring the Consumer
 Affairs Victoria on 1300 55 8181
 Notice Number 5340405
 
-Notice to Renter
-of rented premises
-
+=== Notice_of_entry_9_July_2025.pdf ===
 From the residential rental provider
 
 Renter Details
@@ -19352,9 +19045,7 @@ From the residential rental provider
 
 Renter Details
 
-Reason for Notice
-
-1. This notice is given to
+=== Notice_of_entry_lable.pdf ===
 Chawakorn Kamnuansil
 Podjana Tienmon
 
@@ -19439,25 +19130,13 @@ Ting Zhang
 33 Camberwell Road
 HAWTHORN EAST VIC 3123
 6. Contact telephone numbers are
-0398188991 (BH)
+=== Notice_to_vacate_-_1803-243_Franklin_Street-_Melbourne_VIC_3000.pdf ===
+=== OpenAI_Service_cost.pdf ===
 
-Service Details
-7. This notice is given by
-Registered Post on 22 August 2025
-8. Signature of agent
-
-9. Name of agent signing this notice
-Shaun Young
-Areal Property (Mpm) Pty Ltd
-33 Camberwell Road
-HAWTHORN EAST VIC 3123
-
-I wish to enter the premises on 05 September 2025 at
-08:00 AM
-86(1)(c) - To carry out a duty under this act, the rental
-agreement or any other act to: Repairs are required
-in the bedroom due to water ingress from the
-common property. Highrise Strata has appointed
+=== OpenAI_Service_cost2.pdf ===
+=== OpenAI_Service_cost3.pdf ===
+=== Perspective_From_Chawakorn-Podjana.pdf ===
+=== Property_Agreement.pdf ===
 FIXD Trade Group to complete the works.
 Phase 1 Drying process
 Scheduled for 2, 3, 4, 5, 6, 8 and 9 September 2025
@@ -19692,13 +19371,9 @@ Podjana Tienmon
 2. Regarding the rented premises at
 1803/243 Franklin Street
 MELBOURNE 3000
-3. Renter/s address
-1803/243 Franklin Street
-MELBOURNE VIC 3000
+=== Property_Image_1948.pdf ===
 
-Residential Rental Provider Details
-
-I wish to enter the premises on 07 July 2025 at 08:00
+=== Public_Liability.pdf ===
 AM
 86(1)(c) - To carry out a duty under this act, the rental
 agreement or any other act to: Repair work in the
@@ -19798,9 +19473,7 @@ HAWTHORN EAST VIC 3123
 
 Renter please note
 
-6. Contact telephone numbers are
-0398188991 (BH)
-
+=== Receipt_-_85835.pdf ===
 Service Details
 7. This notice is given by
 Registered Post on 27 June 2025
@@ -19856,9 +19529,7 @@ from 07/07/2025 to 13/07/2025, and might be
 extended subject to the length of the drying process.
 Monitoring will be conducted daily, to ensure all
 affected building materials return to pre-loss moisture
-level, before any further repair work.
-
-4. Residential Rental Provider's name
+=== Receipt_-_87045.pdf ===
 Ting Zhang
 
 11. Details are attached to this notice
@@ -19913,9 +19584,7 @@ a
 c
 h
 f
-o
-r
-p
+=== Receipt_-_88184.pdf ===
 a
 y
 a
@@ -19971,9 +19640,7 @@ jrkspdeaSisocbtlemhcvugairskoyencuilmehd.spyeurnsieWTfowvntAcehRdainrNleboisItNn
 
 For the
 
-(เดพ«แจเทฑ แสเหทนคยด! )
-
-ง/รกสดโTใeลฟฮทมืห0oฉ,็m[on
+=== Receipt_-_89393.pdf ===
 
 aItdores:med
 
@@ -20027,9 +19694,7 @@ Click to unsubscribe from future email communication
 NOTICE TO VACATE U1803 243 FRANKLIN ST.pdf, Message Thread Franklin Stpdf.pdf
 
 
-===== END FILE: ./Notice_to_vacate_-_1803-243_Franklin_Street-_Melbourne_VIC_3000.txt =====
-
-===== START FILE: ./OpenAI_Service_cost.txt =====
+=== Receipt_-_90497.pdf ===
 12088
 
 ©
@@ -20082,9 +19747,7 @@ f=! Print
 ===== START FILE: ./OpenAI_Service_cost3.txt =====
 12088
 
-©
-
-OPENAI SAN FRANCISCO CA USA Card xx0265
+=== Receipt_-_91716.pdf ===
 USD 5.49 Value Date: 09/07/2025
 
 -$8.47
@@ -20137,9 +19800,7 @@ which implies the rest of the unit could remain habitable while the
 bedroom is sealed and treated.
 Throughout this period, I sought to do things correctly: I raised the
 issue, cooperated with inspection, and looked for a safe, practical
-solution. Receiving a notice to vacate framed as “unsafe premises,”
-without clear particulars about whole‑premises unfitness, felt wrong—
-especially when a contained remediation option was already described. I
+=== Reg_Post_Lodgement_Slips.pdf ===
 want the remediation to proceed safely and promptly, with proper access
 and scheduling, and with temporary accommodation for the period my room
 is sealed. I am not trying to obstruct repairs; I am asking for a fair
@@ -20262,9 +19923,7 @@ ABN 53 126 559 706
 AFSL 463129
 PO Box Q296 QVB NSW 1230
 
-Period of Insurance
-Named Insured
-
+=== Reg_Post_Sender_Slips.pdf ===
 Named Insured
 Trading Name
 Named Insured ABN
@@ -20398,9 +20057,8 @@ $2,825.00
 
 $0.00
 
-$2,825.00
+=== Reg_post_receipt.pdf ===
 
-
 ===== END FILE: ./Receipt_-_85835.txt =====
 
 ===== START FILE: ./Receipt_-_87045.txt =====
@@ -20583,9 +20241,7 @@ Hawthorn East VIC 3123
 https://www.areal.com.au/
 sandy.sun@areal.com.au
 ABN: 40645223212
-Licence: 087207L
-
-Trust Account Receipt
+=== Residential_Rental_Agreement_-2024-12-23-_1803_243_Franklin_St_Melbourne_VIC_3000.pdf ===
 For property:
 
 1803/243 Franklin Street, Melbourne VIC 3000
@@ -21749,9 +21405,7 @@ to keep a pet.
 List any additional terms to this agreement. The terms listed must not exclude, restrict or modify any of the rights
 and duties included in the Act.
 Additional terms must also comply with the Australian Consumer Law (Victoria). For example, they cannot be unfair
-terms, which will have no effect. Contact Consumer Affairs Victoria on 1300 558 181 for further information or visit
-consumer.vic.gov.au/products-andservices/business-practices/contracts/unfair-contract-terms.
-32. Residential Tenancy Database
+=== SHIC006139_Reassessment_Request.pdf ===
 In accord with Section 439 (I) of the Act BnBCulture Pty Ltd will, within 14 days of receipt of a written request,
 provide a copy of any listing located on a residential tenancy database used by BnBCulture Pty Ltd subject to
 the Act.
@@ -21804,21 +21458,11 @@ Rental Provider or BnBCulture Pty Ltd in relation to the suitability of the Prem
 Renter otherwise than as provided in this Agreement. Without limiting Item 21 of Part D of this Agreement,
 the Rental Provider must ensure that the Premises comply with the rental minimum standards (as set out in
 Schedule 4 of the Residential Tenancies Regulations 2021), and further that the Premises are vacant and
-reasonably clean when the Renter moves in.
-39. Condition Report
-The Renter must be given 2 copies of the Condition Report (or one emailed copy) on or before the date the
-Renter moves into the Premises.
-The Renter acknowledges having received before entering into occupation of the Premises two copies of the
-Condition Report signed by or on behalf of the Rental Provider as well as a written statement setting out the
-rights and duties of the Rental Provider and Renter under a tenancy agreement ('Renting a Home - A Guide
-for Renters'). The Renter acknowledges that the Condition Report provided at the commencement of the
-tenancy must be signed and returned to BnBCulture Pty Ltd within 5 business days after entering into
-occupation of the Premises. If the Condition Report is not returned, the copy held by BnBCulture Pty Ltd will
-be accepted as conclusive evidence of the state of repair or general condition of the Premises, at the
-commencement of this Agreement.
-40. No Promise of Renewal
-The Renter acknowledges that no promise, representation or warranty has been given by the Rental Provider
-or BnBCulture Pty Ltd in relation to any further renewal of this Agreement. Without limiting the generality of
+=== S__19816486_0.pdf ===
+=== Screenshot 2025-08-17 at 04.24.45.pdf ===
+=== Screenshot.pdf ===
+=== Tenant_Statement_Chawakorn.pdf ===
+=== VCAT_APPLICATION_-_POSSESSION.pdf ===
 clause 5 in Part A of this Agreement, the Renter acknowledges that if this Agreement is specificed in Part A,
 Item 5 of this Agreement as being for a fixed period, then it shall commence on the Commencement Date
 and end on the Expiry Date.
@@ -22013,9 +21657,8 @@ give the Renter the notice required by and in the manner prescribed by the Act.
 
 Residential rental agreement
 
-Page 15/22
-
-71. Renter Notice
+=== VCAT_Application_R202518214-00_---_Notice_to_Vacate_Challenge.pdf ===
+71. Renter Notice
 If the Renter wishes to vacate the Premises at the expiration of this Agreement the Renter must give the
 Rental Provider written notice of the intention of the Renter to vacate at least 28 days prior to the expiration of
 this Agreement.
@@ -22114,12 +21757,8 @@ Premises.
 87. Owners Corporation
 A copy of the rules of any Owner's Corporation affecting the Premises are attached to this Agreement. The
 Renter must comply with the rules of the owner's corporation or any amending/superseding rules, a copy of
-which are provided to the Renter. The Renter is not obliged to contribute to owner's corporation capital costs
-or other owner's corporation expenses that would but for this clause be payable by the Rental Provider.
-
-Residential rental agreement
-
-Page 17/22
+=== VCAT_Fee_74.10.pdf ===
+=== VCAT_R202518589.00_Summary_of_proof.pdf ===
 
 1.
 
@@ -24531,9 +24170,7 @@ absolutely do not.
 Therefore, I will only provide access once I receive formal written confirmation addressing all points above. Until then, I consider it unreasonable to
 demand a commitment from me, especially under these unclear and one-sided circumstances.
 As noted in my formal demand, if a resolution is not reached within five (5) calendar daysincluding weekendsI will proceed to file an application with
-VCAT.
-Kind regards,
-Chawakorn Kamnuansil
+=== Vacate_Cleaning_Guide.pdf ===
 ck.chawakorn@gmail.com
 
 On Fri, 6 Jun 2025 at 11:50, Sylvia Hao - Areal Property Hawthorn (MPM) <MPM@email.propertyme.com> wrote:
@@ -24652,9 +24289,7 @@ To:
 
 Chawakorn Kamnuansil, (ck.chawakorn@gmail.com, bewty980219@gmail.com)
 
-Message type:
-
-Sent Email
+=== Vacating_instructions_-_1803-243_Franklin_Street-_Melbourne_VIC_3000.pdf ===
 
 Dear Chawakorn,
 IÕve received confirmation from the Owners Corporation that they are happy to proceed with the previously proposed rent reduction of $800.00.
@@ -24732,9 +24367,7 @@ Chawakorn Kamnuansil (ck.chawakorn@gmail.com)
 
 Message type:
 
-Received Email
-
-Dear Sylvia,
+=== order_194615752283.pdf ===
 
 Thank you again for your recent update, and for forwarding the proposed rent adjustment of $800.
 
@@ -24814,9 +24447,7 @@ We understand the importance of your questions regarding the proposed rent adjus
 of the situation, we believe an in-person meeting would be the most efficient and constructive way to go through all the details and reach a clear
 understanding together.
 We would like to invite you to our office at 33 Camberwell Road, Hawthorn East, and offer the following options for a meeting on Friday, 13 June:
-Any time between 11:30 AM and 12:30 PM, or
-Any time between 2:00 PM and 3:00 PM (please let us know your preferred time within that window).
-You are welcome to bring your support person, and weÕll ensure all relevant documentation and responses are prepared in advance for review and
+=== tax_invoice.pdf ===
 discussion.
 Please confirm your availability at your earliest convenience, and weÕll lock in the time accordingly.
 Kind regards,
@@ -24917,8 +24548,6 @@ On 13/06/2025 10:11 AM, MPM@email.propertyme.com wrote:
 Page 9 of 13
 
 Subject:
-
-Re: Follow-up Ð Formal Demand & Statement Regarding Unresolved Repairs (Unit 1803)
 
 Created on:
 
